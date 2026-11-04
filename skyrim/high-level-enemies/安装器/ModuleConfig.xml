@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+  <moduleName>High Level Enemies 简体中文</moduleName>
+  <moduleDependencies operator="And">
+    <fileDependency file="Skyrim.esm" state="Active"/>
+    <fileDependency file="Update.esm" state="Active"/>
+    <fileDependency file="Dawnguard.esm" state="Active"/>
+    <fileDependency file="Dragonborn.esm" state="Active"/>
+  </moduleDependencies>
+  <requiredInstallFiles>
+    <folder source="00 Assets\meshes" destination="meshes" priority="0"/>
+    <folder source="00 Assets\textures" destination="textures" priority="0"/>
+  </requiredInstallFiles>
+  <installSteps order="Explicit">
+    <installStep name="选择敌人版本">
+      <optionalFileGroups order="Explicit">
+        <group name="两个版本只选一个" type="SelectExactlyOne">
+          <plugins order="Explicit">
+            <plugin name="普通版">
+              <description>沿用原模组普通版的敌人等级规则，包含本体、黎明守卫和龙裔。首次安装可选这一项。</description>
+              <files>
+                <folder source="10 Normal" destination="" priority="0"/>
+              </files>
+              <typeDescriptor>
+                <type name="Recommended"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="等级缩放版">
+              <description>让原版及模组敌人随玩家等级成长。与普通版互斥，原来用缩放版的请选择这一项。</description>
+              <files>
+                <folder source="20 Scaled" destination="" priority="0"/>
+              </files>
+              <typeDescriptor>
+                <type name="Optional"/>
+              </typeDescriptor>
+            </plugin>
+          </plugins>
+        </group>
+      </optionalFileGroups>
+    </installStep>
+    <installStep name="选择可选补丁">
+      <optionalFileGroups order="Explicit">
+        <group name="按需勾选，不需要可直接继续" type="SelectAny">
+          <plugins order="Explicit">
+            <plugin name="法术等级上限补丁">
+              <description>让部分幻术、复生、召唤、驱散亡灵和狼人嚎叫能在更高等级继续生效。原来没用过可以不勾选。</description>
+              <files>
+                <folder source="30 Caps" destination="" priority="0"/>
+              </files>
+              <typeDescriptor>
+                <type name="Optional"/>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="抗性上限补丁">
+              <description>将护甲减伤与魔法抗性上限提高到90%。这是数值改动，没有需要汉化的文字；只在需要这个效果时勾选。</description>
+              <files>
+                <folder source="40 Resists" destination="" priority="0"/>
+              </files>
+              <typeDescriptor>
+                <type name="Optional"/>
+              </typeDescriptor>
+            </plugin>
+          </plugins>
+        </group>
+      </optionalFileGroups>
+    </installStep>
+  </installSteps>
+</config>
