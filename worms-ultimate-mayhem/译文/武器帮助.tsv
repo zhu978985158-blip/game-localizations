@@ -1,0 +1,42 @@
+HelpText.kSecretWeaponBomber	这是你们队伍的秘密武器，用在刀刃上。
+HelpText.kSecretWeaponLaunched	这是你们队伍的秘密武器，用在刀刃上。
+HelpText.kSecretWeaponThrown	这是你们队伍的秘密武器，用在刀刃上。
+HelpText.kUtilityBinoculars0	侦察敌方天虫。用 /*FETXT.Control.1stPerson*/ 瞄准，再按 /*FETXT.Control.Fire*/ 选定目标，即可查看命中所需的力度和弹道。
+HelpText.kUtilityBubbleTrouble0	弹开外部攻击的防护泡泡。按 /*FETXT.Control.Fire*/ 展开，持续 2 个回合。
+HelpText.kUtilityChangeWorm0	选中后，按 /*FETXT.Control.WormSelect*/ 切换天虫，再按 /*FETXT.Control.WormSelectAccept*/ 确认。
+HelpText.kUtilityGirder0	用 /*Button.Movement*/ 调整位置，按 /*FETXT.Control.GirderRaise*/ 和 /*FETXT.Control.GirderLower*/ 调整高度，按 /*FETXT.Control.Fire*/ 放置。
+HelpText.kUtilityJetpack0	飞上天去！按 /*FETXT.Control.Fire*/ 启动推进器，用 /*Button.Movement*/ 控制天虫的方向。
+HelpText.kUtilityNinjaRope0	用 /*FETXT.Control.1stPerson*/ 瞄准，按 /*FETXT.Control.Fire*/ 挂住或松开抓钩，用 /*FETXT.Control.Ninja.Lengthen*/ 和 /*FETXT.Control.Ninja.Shorten*/ 放长或收短绳索。
+HelpText.kUtilityNinjaRope0C	用 /*FETXT.Control.1stPerson*/ 瞄准，按 /*FETXT.Control.Fire*/ 挂住或松开抓钩，用 /*FETXT.Control.Ninja.Lengthen*/ 和 /*FETXT.Control.Ninja.Shorten*/ 放长或收短绳索。
+HelpText.kUtilityParachute0	稳稳飘到安全地带！按 /*FETXT.Control.Fire*/ 开伞，用 /*Button.Movement*/ 移动。选中降落伞后，它也会自动开启。
+HelpText.kUtilityRedbull0	按 /*FETXT.Control.Fire*/ 喝下药水，再有节奏地跳跃，就能飞起来。多练练就熟了！
+HelpText.kUtilitySkipGo0	按 /*FETXT.Control.Fire*/，白白放弃这个回合。
+HelpText.kUtilitySurrender0	按 /*FETXT.Control.Fire*/ 当个胆小鬼，举手投降。
+HelpText.kWeaponAirstrike0	空袭来了！用 /*FETXT.Control.Blimp*/ 设定轰炸路线，再按 /*FETXT.Control.Fire*/ 发动攻击。
+HelpText.kWeaponAlienAbduction0	被掳走的天虫究竟会遇到什么，谁也不知道。用 /*FETXT.Control.Blimp*/ 选定目标区域。
+HelpText.kWeaponBananaBomb0	小心这串会爆炸的水果！用 /*FETXT.Control.FuseUp*/ 设置引信，/*FETXT.Control.1stPerson*/ 瞄准，/*FETXT.Control.Fire*/ 蓄力。
+HelpText.kWeaponBaseballBat0	用 /*FETXT.Control.1stPerson*/ 瞄准，按 /*FETXT.Control.Fire*/ 把对手打飞。来个全垒打！
+HelpText.kWeaponBazooka0	经典武器，弹道会受风力影响。用 /*FETXT.Control.1stPerson*/ 瞄准，按 /*FETXT.Control.Fire*/ 蓄力。
+HelpText.kWeaponClusterGrenade0	爆开后散出致命的子弹药。用 /*FETXT.Control.FuseUp*/ 设置引信，/*FETXT.Control.1stPerson*/ 瞄准，/*FETXT.Control.Fire*/ 蓄力。
+HelpText.kWeaponConcreteDonkey0	传奇归来！用 /*FETXT.Control.1stPerson*/ 瞄准，按 /*FETXT.Control.Fire*/ 让它从天而降。咿——啊！
+HelpText.kWeaponDynamite0	按 /*FETXT.Control.Fire*/ 放下炸药，然后有多远跑多远！
+HelpText.kWeaponFatkins0	胖子也会飞！用 /*FETXT.Control.Blimp*/ 设定路线，再按 /*FETXT.Control.Fire*/ 发动攻击。
+HelpText.kWeaponFirePunch0	猛虎升龙拳！靠近对手，按 /*FETXT.Control.Fire*/ 把它揍上天！
+HelpText.kWeaponFlood0	赶紧往高处跑！按 /*FETXT.Control.Fire*/ 召来暴风雨。
+HelpText.kWeaponGasCanister0	放出毒气！用 /*FETXT.Control.1stPerson*/ 瞄准，按 /*FETXT.Control.Fire*/ 蓄力。
+HelpText.kWeaponGrenade0	居家旅行，常备一颗。用 /*FETXT.Control.FuseUp*/ 设置引信，/*FETXT.Control.1stPerson*/ 瞄准，/*FETXT.Control.Fire*/ 蓄力。
+HelpText.kWeaponHolyHandGrenade0	终极手榴弹。用 /*FETXT.Control.1stPerson*/ 瞄准，按 /*FETXT.Control.Fire*/ 蓄力。想祈祷一下也行。
+HelpText.kWeaponHomingMissile0	用 /*FETXT.Control.Blimp*/ 选定目标，瞄好发射方向，再按 /*FETXT.Control.Fire*/ 蓄力。
+HelpText.kWeaponLandmine0	受到触发才会爆炸。按 /*FETXT.Control.Fire*/ 放下地雷。
+HelpText.kWeaponNoMoreNails0	该抡锤子了！靠近敌人，按 /*FETXT.Control.Fire*/ 把它钉进地里。
+HelpText.kWeaponOldWoman0	这位老太太还会顺手牵羊！按 /*FETXT.Control.Fire*/ 放出，用 /*Button.Movement*/ 控制方向，再按 /*FETXT.Control.Fire*/ 随时引爆。
+HelpText.kWeaponPoisonArrow0	带毒的箭，弹道会受风力影响。用 /*FETXT.Control.1stPerson*/ 瞄准，按 /*FETXT.Control.Fire*/ 蓄力。
+HelpText.kWeaponProd0	没有比这更丢脸的死法了。按 /*FETXT.Control.Fire*/ 轻轻一推。
+HelpText.kWeaponScouser0	乘着漂亮的气球，飞高，再飞高！按 /*FETXT.Control.Fire*/ 放出，用 /*Button.Movement*/ 控制方向。
+HelpText.kWeaponSentryGun0	射击视线范围内的敌人。按 /*FETXT.Control.Fire*/ 放在平地上，每队限放 1 座。
+HelpText.kWeaponSheep0	按 /*FETXT.Control.Fire*/ 放出毛茸茸的小伙伴，再按 /*FETXT.Control.Fire*/ 引爆。
+HelpText.kWeaponShotgun0	两发子弹，逐个收拾敌人。用 /*FETXT.Control.1stPerson*/ 瞄准，按 /*FETXT.Control.Fire*/ 射击。
+HelpText.kWeaponSniperRifle0	找个草坡，瞄准开枪！用 /*FETXT.Control.1stPerson*/ 瞄准，/*FETXT.Control.ZoomIn*/ 和 /*FETXT.Control.ZoomOut*/ 调整倍率，按 /*FETXT.Control.Fire*/ 射击。
+HelpText.kWeaponStarburst0	以命换命，值不值由你决定。按 /*FETXT.Control.Fire*/ 引爆，用 /*Button.Movement*/ 控制飞行。
+HelpText.kWeaponSuperAirstrike0	操纵飞机，投下炸弹。用 /*FETXT.Control.Blimp*/ 设定路线，再按 /*FETXT.Control.Fire*/ 发动攻击。
+HelpText.kWeaponSuperSheep0	绵羊也会飞！按 /*FETXT.Control.Fire*/ 放出、变身或引爆，用 /*Button.Movement*/ 控制飞行。

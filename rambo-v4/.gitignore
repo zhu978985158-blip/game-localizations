@@ -1,0 +1,15 @@
+inputs/
+补丁/
+恢复原版/
+Rambo_汉化补丁_v4/
+校验报告.json
+__pycache__/
+*.pyc
+*.zip
+*.ttf
+*.ttc
+*.otf
+*.bmp
+*.png
+*.data
+*.xlor

@@ -1,0 +1,16 @@
+inputs/
+汉化版/
+work/*.otf
+work/*.ttf
+work/build_classes/
+work/patched_classes/
+work/font_characters.txt
+work/line_break_characters.txt
+work/patch_mappings.tsv
+work/character_titles.tsv
+work/双语校对表.json
+work/构建校验.json
+__pycache__/
+*.pyc
+*.jar
+*.class

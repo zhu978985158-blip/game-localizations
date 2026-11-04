@@ -1,0 +1,12 @@
+inputs/
+交付/
+校验记录/
+__pycache__/
+*.pyc
+*.pak
+*.ffa
+*.spm
+*.exe
+*.dll
+*.rar
+*.zip

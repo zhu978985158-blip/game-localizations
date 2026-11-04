@@ -1,5 +1,7 @@
 # 微风阁大修简体中文翻译资料
 
+作用于 **《上古卷轴5：天际特别版 / The Elder Scrolls V: Skyrim Special Edition》**，不是独立游戏，也不适用于其他《上古卷轴》作品。
+
 对应 **Elianora's Breezehome Overhaul**，项目名称中的原作者署名为 **Elianora**，本地汉化包标识为 **EBO-3X**。原始发布链接、确切上游版本及再分发授权尚未通过本次源文件整理核验。
 
 这里保存译表与制作工具，不附带完整原 Mod、BSA、ESP、PEX、模型、贴图或客户记录。构建时须自行取得与这些译表匹配的原 Mod；本目录不构成原 Mod 的完整安装包。

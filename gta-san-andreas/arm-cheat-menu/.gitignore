@@ -1,0 +1,8 @@
+work/
+reports/
+__pycache__/
+*.pyc
+*.so
+*.ttf
+*.otf
+*.zip

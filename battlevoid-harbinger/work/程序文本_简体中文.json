@@ -1,0 +1,42 @@
+{
+  "fi/bugbyte/battlejump/desktop/LauncherApp": {
+    "<not set>": "未设置", "Action": "操作", "Alternative": "备用按键", "Configure keys": "按键设置", "Disable cursors": "禁用自定义光标", "Fullscreen": "全屏", "Key": "按键", "Launch": "启动游戏", "Loading news...": "正在加载资讯……", "Mouse ScrollWheel": "鼠标滚轮", "Press Key": "请按键", "press key...": "请按下要设置的按键……", "Vsync": "垂直同步"
+  },
+  "fi/bugbyte/battlejump/desktop/MainClass": {"Crash": "程序异常", "ok": "确定"},
+  "fi/bugbyte/jump/GameState": {"Destroyed by ": "被摧毁，攻击者：", "Killed by ": "被击败，攻击者：", "Escape ship launched": "逃生船已起飞", "autotravel canceled, danger present": "发现危险，自动航行已取消"},
+  "fi/bugbyte/jump/GameState$11": {"New Command Ship!": "已更换指挥舰！"},
+  "fi/bugbyte/jump/hud/DesktopHud": {"Engineering": "工程", "Formation": "阵型", "Starmap": "星图"},
+  "fi/bugbyte/jump/hud/DesktopHud$JumpKeys": {
+    "Pause": "暂停", "Open map": "打开星图", "Open inventory": "打开装备界面", "Open formation": "打开阵型界面", "Move camera up": "镜头上移", "Move camera left": "镜头左移", "Move camera down": "镜头下移", "Move camera right": "镜头右移", "Move camera freely": "自由移动镜头", "Zoom in": "放大", "Zoom Out": "缩小", "Select": "选择", "Add ship to selected": "将舰船加入选中", "Remove ship from selected": "取消选中舰船", "Action": "行动", "Add waypoint": "添加航点", "Select ship 1": "选择舰船 1", "Select ship 2": "选择舰船 2", "Select ship 3": "选择舰船 3", "Select all ships": "选择全部舰船", "Stop": "停止", "Stop ship and turn towards point": "停止并转向目标", "Repair": "修理", "Jump to sector": "跃迁至星区", "Teleport": "传送", "Normal Speed": "正常速度", "Double speed": "双倍速度", "Mouse": "鼠标"
+  },
+  "fi/bugbyte/jump/hud/DialogPopup$RewardText": {"Item": "物品", "Party": "舰队"},
+  "fi/bugbyte/jump/hud/FormationScreen$BuyQuestion": {"Buy reinforcement ship for x?": "花费 x 购买增援舰船？"},
+  "fi/bugbyte/jump/hud/JumpScreen$5": {"Error cannot wait": "当前无法等待"},
+  "fi/bugbyte/jump/hud/SharedHud$5": {"Environment Hazard!": "环境危险！"},
+  "fi/bugbyte/jump/hud/SharedHud$ShipStatsWindow": {"Ship difficulty:": "舰船难度："},
+  "fi/bugbyte/jump/hud/UpgradeScreen$BuildPopup$1": {"Not enough scrap!": "废金属不足！"},
+  "fi/bugbyte/jump/hud/UpgradeScreen$BuildableItem": {"no description made.": "暂无说明。"},
+  "fi/bugbyte/jump/library/MapParameters$Enemy": {"The Great Unknown": "伟大未知体"},
+  "fi/bugbyte/jump/menus/CloudAccountScreen": {
+    "Action failed": "操作失败", "Email:": "邮箱：", "Error:": "错误：", "Last upload": "上次上传", "No cloud data found": "未找到云存档", "Password:": "密码：", "Repeat Password:": "确认密码：", "Success": "成功", "failed to register": "注册失败", "insert password": "请输入密码", "password must be at least 5 characters": "密码至少需要 5 个字符", "something went wrong": "出现错误", "success, logging in": "成功，正在登录"
+  },
+  "fi/bugbyte/jump/menus/CloudAccountScreen$2": {"Setting off": "已关闭", "Setting on": "已开启"},
+  "fi/bugbyte/jump/menus/CodeInsert": {"Insert Kickstarter patreon code:": "输入众筹赞助兑换码：", "Level set to ": "等级已设为 ", "Patreon ship unlocked!": "赞助者舰船已解锁！", "Skip to level": "跳至等级", "checking...": "正在验证……", "code failed": "兑换码无效"},
+  "fi/bugbyte/jump/menus/Credits": {"Kickstarter Credits": "众筹支持者", "Kickstarter Producers": "众筹制作人", "Thanks for playing!": "感谢游玩！", "Translations": "本地化翻译"},
+  "fi/bugbyte/jump/menus/EpisodeSelect$PCEpisodeSelect": {"Select difficulty": "选择难度", "Select ship": "选择舰船"},
+  "fi/bugbyte/jump/menus/EpisodeSelect": {" (Endless)": "（无尽）", "Exit": "退出"},
+  "fi/bugbyte/jump/menus/MainMenu$10": {"Sign out of google play?": "退出 Google Play 登录？"},
+  "fi/bugbyte/jump/menus/Options$Binding$1": {" is already bound as: ": " 已绑定至：", "Bind button anyway?": "仍要绑定此按钮？", "Bind key anyway?": "仍要绑定此按键？", "Warning! ": "警告！"},
+  "fi/bugbyte/jump/menus/Options$Binding": {"Scroll wheel": "鼠标滚轮"},
+  "fi/bugbyte/jump/menus/Options$CheckBoxSetting": {"Setting off": "已关闭", "Setting on": "已开启"},
+  "fi/bugbyte/jump/menus/Options$CheckBoxSetting$1": {"Setting off": "已关闭", "Setting on": "已开启"},
+  "fi/bugbyte/jump/menus/Score": {" (Map ": " (地图 ", "Level": "等级"},
+  "fi/bugbyte/jump/menus/Story": {"Map (": "地图 ("},
+  "fi/bugbyte/jump/menus/TransitionBetweenMaps": {"Exit": "退出", "Transitioning To Next Map (": "正在前往下一张地图 ("},
+  "fi/bugbyte/jump/entities/Mercenaries": {
+    "John Alistar": "约翰·阿利斯塔", "Debye": "德拜", "Dr. Blade": "刀锋博士", "Samantha Wallace": "萨曼莎·华莱士", "Xavier Whistler": "泽维尔·惠斯勒", "Blake Kilmartin": "布莱克·基尔马丁", "Leon": "里昂", "Sasha Silveira": "莎夏·西尔韦拉", "Nathaniel Clarke": "纳撒尼尔·克拉克"
+  },
+  "fi/bugbyte/jump/ai/EnemyGenerator$StationNameRegistry": {
+    "Battlestation G-85": "G-85 战斗空间站", "Battlestation G-87": "G-87 战斗空间站", "Battlestation G-55": "G-55 战斗空间站", "Battlestation G-64": "G-64 战斗空间站", "Battlestation G-23": "G-23 战斗空间站", "Battlestation G-14": "G-14 战斗空间站", "Battlestation G-37": "G-37 战斗空间站", "Neo Locarno": "新洛迦诺", "KRS Orres": "KRS 奥雷斯", "BS Danielle 22": "BS 丹妮尔 22", "The Burnas": "伯纳斯", "Battlestation Arsenault": "阿瑟诺战斗空间站", "Celestial Spire": "天穹尖塔", "Bellator Eternus": "永恒战士"
+  }
+}

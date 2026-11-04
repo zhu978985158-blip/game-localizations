@@ -1,5 +1,7 @@
 # High Level Enemies 简体中文翻译工程
 
+作用于 **《上古卷轴5：天际特别版 / The Elder Scrolls V: Skyrim Special Edition》**，不是独立游戏，也不适用于其他《上古卷轴》作品。
+
 原模组作者为 **Dalquist**，原作者页面：[High Level Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/3231)。本目录保存简体中文译文、文字回填工具和中文安装器模板。
 
 ## 内容与运行前提

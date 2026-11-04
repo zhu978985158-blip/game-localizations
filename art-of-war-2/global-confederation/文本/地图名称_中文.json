@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "ru": "Брод",
+    "zh": "浅滩",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  },
+  {
+    "id": 2,
+    "ru": "В кольце",
+    "zh": "包围圈",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  },
+  {
+    "id": 3,
+    "ru": "Воронка",
+    "zh": "漏斗",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  },
+  {
+    "id": 4,
+    "ru": "Приказано выжить!",
+    "zh": "奉命求生！",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  },
+  {
+    "id": 5,
+    "ru": "Шесть мостов",
+    "zh": "六座桥",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  },
+  {
+    "id": 6,
+    "ru": "Тропа войны",
+    "zh": "战争之路",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  },
+  {
+    "id": 7,
+    "ru": "Прорыв блокады",
+    "zh": "突破封锁",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  },
+  {
+    "id": 8,
+    "ru": "Малый крест",
+    "zh": "小十字",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  },
+  {
+    "id": 9,
+    "ru": "Два берега",
+    "zh": "两岸",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  },
+  {
+    "id": 10,
+    "ru": "Враг у ворот",
+    "zh": "敌临城下",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  },
+  {
+    "id": 11,
+    "ru": "Операция Дельта",
+    "zh": "三角洲行动",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  },
+  {
+    "id": 12,
+    "ru": "Спасти Роджерса",
+    "zh": "营救罗杰斯",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  },
+  {
+    "id": 13,
+    "ru": "Каньон Паука",
+    "zh": "蜘蛛峡谷",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  },
+  {
+    "id": 14,
+    "ru": "Остров-Череп",
+    "zh": "骷髅岛",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  },
+  {
+    "id": 15,
+    "ru": "Два пути",
+    "zh": "两条路",
+    "source": "crk/canvas.java maps1",
+    "status": "待接入地图显示链路"
+  }
+]

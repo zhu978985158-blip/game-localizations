@@ -1,0 +1,8 @@
+原版/
+源码/
+文本/动态显示译表.json
+__pycache__/
+*.pyc
+*.jar
+*.class
+*.jad

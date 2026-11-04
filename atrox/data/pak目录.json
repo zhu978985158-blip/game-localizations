@@ -1,0 +1,6098 @@
+[
+  {
+    "path": "/atrox_pak/cursor/cursor.gst",
+    "block": 3,
+    "size": 46593,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/cursor/Gauge.gst",
+    "block": 33,
+    "size": 247563,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/cursor/ring.gst",
+    "block": 154,
+    "size": 45075,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/cursor/vssver.scc",
+    "block": 177,
+    "size": 80,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_CommandoDeath.sss",
+    "block": 32,
+    "size": 39994,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_PrivateDeath.sss",
+    "block": 198,
+    "size": 51424,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ReconnoiterDeath.sss",
+    "block": 224,
+    "size": 34294,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCINFORM_MissSelect.sss",
+    "block": 241,
+    "size": 102064,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCINFORM_Muon.sss",
+    "block": 291,
+    "size": 103112,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCINFORM_NeedSupply.sss",
+    "block": 342,
+    "size": 123410,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCINFORM_Quark.sss",
+    "block": 403,
+    "size": 119400,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCINFORM_Research.sss",
+    "block": 462,
+    "size": 98432,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VCINFORM_UnderAttack.sss",
+    "block": 512,
+    "size": 127790,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCINFORM_UnitLimitOver.sss",
+    "block": 575,
+    "size": 177134,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCINFORM_Upgrade.sss",
+    "block": 662,
+    "size": 95906,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_BraCmd1.sss",
+    "block": 709,
+    "size": 93234,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_BraCmd2.sss",
+    "block": 755,
+    "size": 68428,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_BraCmd3.sss",
+    "block": 789,
+    "size": 112020,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_BraSel1.sss",
+    "block": 844,
+    "size": 65428,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_BraSel2.sss",
+    "block": 876,
+    "size": 78956,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_BraSel3.sss",
+    "block": 915,
+    "size": 90226,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_RakeCmd1.sss",
+    "block": 960,
+    "size": 63378,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_RakeCmd2.sss",
+    "block": 991,
+    "size": 28396,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_RakeCmd3.sss",
+    "block": 1005,
+    "size": 54338,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_RAKESEL1.sss",
+    "block": 1032,
+    "size": 45288,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_RAKESEL2.sss",
+    "block": 1055,
+    "size": 44688,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_RAKESEL3.sss",
+    "block": 1077,
+    "size": 76658,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_RosuCmd1.sss",
+    "block": 1115,
+    "size": 53462,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_RosuCmd2.sss",
+    "block": 1142,
+    "size": 40280,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_RosuCmd3.sss",
+    "block": 1162,
+    "size": 41666,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_RosuDeath.sss",
+    "block": 1183,
+    "size": 82596,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_RosuSel1.sss",
+    "block": 1224,
+    "size": 67336,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_RosuSel2.sss",
+    "block": 1257,
+    "size": 68030,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHERO_RosuSel3.sss",
+    "block": 1291,
+    "size": 49990,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHINFORM_BuildCompleted.sss",
+    "block": 1316,
+    "size": 39460,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHINFORM_MissSelect.sss",
+    "block": 1336,
+    "size": 71846,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHINFORM_Muon.sss",
+    "block": 1372,
+    "size": 81972,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHINFORM_NeedSupply.sss",
+    "block": 1413,
+    "size": 71836,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHINFORM_Quark.sss",
+    "block": 1449,
+    "size": 82892,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VHINFORM_Research.sss",
+    "block": 1491,
+    "size": 62642,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHINFORM_UnderAttack.sss",
+    "block": 1522,
+    "size": 64472,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHINFORM_UnitLimitOver.sss",
+    "block": 1554,
+    "size": 93018,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHINFORM_Upgrade.sss",
+    "block": 1600,
+    "size": 62642,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterCmd1.sss",
+    "block": 1631,
+    "size": 45290,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterCmd2.sss",
+    "block": 1654,
+    "size": 45966,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterCmd3.sss",
+    "block": 1677,
+    "size": 37182,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterCmd4.sss",
+    "block": 1696,
+    "size": 26382,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterCmd5.sss",
+    "block": 1709,
+    "size": 77704,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterCmd6.sss",
+    "block": 1747,
+    "size": 41238,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterCmd7.sss",
+    "block": 1768,
+    "size": 24352,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterCmd8.sss",
+    "block": 1780,
+    "size": 36512,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterCmd9.sss",
+    "block": 1798,
+    "size": 38142,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterProduce.sss",
+    "block": 1817,
+    "size": 45290,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterSel1.sss",
+    "block": 1840,
+    "size": 60822,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterSel2.sss",
+    "block": 1871,
+    "size": 71628,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterSel3.sss",
+    "block": 1906,
+    "size": 39212,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterSel4.sss",
+    "block": 1926,
+    "size": 51368,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterSel5.sss",
+    "block": 1952,
+    "size": 64872,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterSel6.sss",
+    "block": 1984,
+    "size": 36512,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterSel7.sss",
+    "block": 2002,
+    "size": 33808,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_AeroFighterSel8.sss",
+    "block": 2019,
+    "size": 58794,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ATVCmd1.sss",
+    "block": 2048,
+    "size": 65406,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ATVCmd2.sss",
+    "block": 2080,
+    "size": 30384,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ATVCmd3.sss",
+    "block": 2095,
+    "size": 94954,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ATVCmd4.sss",
+    "block": 2142,
+    "size": 98860,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ATVProduce.sss",
+    "block": 2192,
+    "size": 90304,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ATVSel1.sss",
+    "block": 2237,
+    "size": 61512,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ATVSel2.sss",
+    "block": 2268,
+    "size": 67740,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ATVSel3.sss",
+    "block": 2302,
+    "size": 61508,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CarrierCmd1.sss",
+    "block": 2333,
+    "size": 64922,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CarrierCmd2.sss",
+    "block": 2365,
+    "size": 52566,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CarrierCmd3.sss",
+    "block": 2391,
+    "size": 63370,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CarrierCmd4.sss",
+    "block": 2422,
+    "size": 55650,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CarrierProduce.sss",
+    "block": 2450,
+    "size": 57074,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CarrierSel1.sss",
+    "block": 2478,
+    "size": 43846,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CarrierSel2.sss",
+    "block": 2500,
+    "size": 65326,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CarrierSel3.sss",
+    "block": 2532,
+    "size": 43296,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoCmd1.sss",
+    "block": 2554,
+    "size": 30194,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoCmd2.sss",
+    "block": 2570,
+    "size": 38486,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoCmd3.sss",
+    "block": 2589,
+    "size": 31700,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoCmd4.sss",
+    "block": 2605,
+    "size": 36980,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoCmd5.sss",
+    "block": 2624,
+    "size": 53560,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoCmd6.sss",
+    "block": 2651,
+    "size": 52054,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoCmd7.sss",
+    "block": 2677,
+    "size": 32454,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoCmd8.sss",
+    "block": 2693,
+    "size": 52808,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoProduce.sss",
+    "block": 2719,
+    "size": 54316,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoSel1.sss",
+    "block": 2746,
+    "size": 35470,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoSel2.sss",
+    "block": 2764,
+    "size": 57332,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoSel3.sss",
+    "block": 2792,
+    "size": 55070,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoSel4.sss",
+    "block": 2819,
+    "size": 60348,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoSel5.sss",
+    "block": 2849,
+    "size": 49040,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandoSel6.sss",
+    "block": 2873,
+    "size": 33208,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandShuttleCmd1.sss",
+    "block": 2890,
+    "size": 49514,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandShuttleCmd2.sss",
+    "block": 2915,
+    "size": 56104,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandShuttleCmd3.sss",
+    "block": 2943,
+    "size": 46216,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandShuttleCmd4.sss",
+    "block": 2966,
+    "size": 65998,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandShuttleCmd5.sss",
+    "block": 2999,
+    "size": 56104,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandShuttleCmd6.sss",
+    "block": 3027,
+    "size": 56104,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandShuttleCmd7.sss",
+    "block": 3055,
+    "size": 56108,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandShuttleProduce.sss",
+    "block": 3083,
+    "size": 72596,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandShuttleSel1.sss",
+    "block": 3119,
+    "size": 85788,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandShuttleSel2.sss",
+    "block": 3161,
+    "size": 92376,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandShuttleSel3.sss",
+    "block": 3207,
+    "size": 42906,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandShuttleSel4.sss",
+    "block": 3228,
+    "size": 98988,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_CommandShuttleSel5.sss",
+    "block": 3277,
+    "size": 82494,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_DetectorCmd1.sss",
+    "block": 3318,
+    "size": 138880,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_DetectorCmd2.sss",
+    "block": 3387,
+    "size": 76306,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_DetectorCmd3.sss",
+    "block": 3425,
+    "size": 66528,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_DetectorProduce.sss",
+    "block": 3458,
+    "size": 82172,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_DetectorSel1.sss",
+    "block": 3499,
+    "size": 62618,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_DetectorSel2.sss",
+    "block": 3530,
+    "size": 78262,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_DetectorSel3.sss",
+    "block": 3569,
+    "size": 107590,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerCmd1.sss",
+    "block": 3622,
+    "size": 37972,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerCmd2.sss",
+    "block": 3641,
+    "size": 39462,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerCmd3.sss",
+    "block": 3661,
+    "size": 32024,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerCmd4.sss",
+    "block": 3677,
+    "size": 37974,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerCmd5.sss",
+    "block": 3696,
+    "size": 38718,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerCmd6.sss",
+    "block": 3715,
+    "size": 69640,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerCmd7.sss",
+    "block": 3750,
+    "size": 56566,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerProduce.sss",
+    "block": 3778,
+    "size": 56566,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerSel1.sss",
+    "block": 3807,
+    "size": 39460,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerSel10.sss",
+    "block": 3827,
+    "size": 55078,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerSel2.sss",
+    "block": 3854,
+    "size": 42438,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerSel3.sss",
+    "block": 3875,
+    "size": 58798,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerSel4.sss",
+    "block": 3904,
+    "size": 43180,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerSel5.sss",
+    "block": 3926,
+    "size": 60284,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerSel6.sss",
+    "block": 3956,
+    "size": 61026,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerSel7.sss",
+    "block": 3986,
+    "size": 43922,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerSel8.sss",
+    "block": 4008,
+    "size": 40950,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_EngineerSel9.sss",
+    "block": 4028,
+    "size": 46900,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FlameRunnerCmd1.sss",
+    "block": 4051,
+    "size": 33404,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FlameRunnerCmd2.sss",
+    "block": 4068,
+    "size": 52258,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FlameRunnerCmd3.sss",
+    "block": 4094,
+    "size": 81268,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FlameRunnerCmd4.sss",
+    "block": 4134,
+    "size": 65314,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FlameRunnerProduce.sss",
+    "block": 4166,
+    "size": 68938,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FlameRunnerSel1.sss",
+    "block": 4200,
+    "size": 45734,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FlameRunnerSel2.sss",
+    "block": 4223,
+    "size": 59510,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FlameRunnerSel3.sss",
+    "block": 4253,
+    "size": 84894,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FlameRunnerSel4.sss",
+    "block": 4295,
+    "size": 45730,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FWSCmd1.sss",
+    "block": 4318,
+    "size": 70828,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FWSCmd2.sss",
+    "block": 4353,
+    "size": 125584,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FWSCmd3.sss",
+    "block": 4415,
+    "size": 105554,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FWSCmd4.sss",
+    "block": 4467,
+    "size": 106888,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FWSCmd5.sss",
+    "block": 4521,
+    "size": 81512,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FWSCmd6.sss",
+    "block": 4561,
+    "size": 58810,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FWSProduce.sss",
+    "block": 4590,
+    "size": 116798,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FWSSel1.sss",
+    "block": 4648,
+    "size": 65486,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FWSSel2.sss",
+    "block": 4680,
+    "size": 92198,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FWSSel3.sss",
+    "block": 4726,
+    "size": 49460,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_FWSSel4.sss",
+    "block": 4751,
+    "size": 110896,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankCmd1.sss",
+    "block": 4806,
+    "size": 82190,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankCmd2.sss",
+    "block": 4847,
+    "size": 96480,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankCmd3.sss",
+    "block": 4895,
+    "size": 71476,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankCmd4.sss",
+    "block": 4930,
+    "size": 67906,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankCmd5.sss",
+    "block": 4964,
+    "size": 71476,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankCmd6.sss",
+    "block": 4999,
+    "size": 38650,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankCmd7.sss",
+    "block": 5018,
+    "size": 46474,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankCmd8.sss",
+    "block": 5041,
+    "size": 67904,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankCmd9.sss",
+    "block": 5075,
+    "size": 71476,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankProduce.sss",
+    "block": 5111,
+    "size": 85762,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankSel1.sss",
+    "block": 5153,
+    "size": 71476,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankSel2.sss",
+    "block": 5188,
+    "size": 71476,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankSel3.sss",
+    "block": 5223,
+    "size": 89334,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankSel4.sss",
+    "block": 5267,
+    "size": 64332,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_HeavyTankSel5.sss",
+    "block": 5299,
+    "size": 92906,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_MovingBunkerCmd1.sss",
+    "block": 5345,
+    "size": 63992,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_MovingBunkerCmd2.sss",
+    "block": 5377,
+    "size": 56874,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_MovingBunkerCmd3.sss",
+    "block": 5405,
+    "size": 53334,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_MovingBunkerCmd4.sss",
+    "block": 5432,
+    "size": 60446,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_MovingBunkerProduce.sss",
+    "block": 5462,
+    "size": 74648,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_MovingBunkerSel1.sss",
+    "block": 5500,
+    "size": 60446,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_MovingBunkerSel2.sss",
+    "block": 5530,
+    "size": 64000,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_MovingBunkerSel3.sss",
+    "block": 5562,
+    "size": 71796,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_PrivateCmd1.sss",
+    "block": 5598,
+    "size": 31002,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_PrivateCmd2.sss",
+    "block": 5614,
+    "size": 29012,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_PrivateCmd3.sss",
+    "block": 5629,
+    "size": 69208,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_PrivateCmd4.sss",
+    "block": 5663,
+    "size": 33622,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_PrivateProduce.sss",
+    "block": 5680,
+    "size": 42860,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_PrivateSel1.sss",
+    "block": 5701,
+    "size": 45494,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_PrivateSel2.sss",
+    "block": 5724,
+    "size": 49446,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_PrivateSel3.sss",
+    "block": 5749,
+    "size": 39566,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ReconnoiterCmd1.sss",
+    "block": 5769,
+    "size": 28584,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ReconnoiterCmd2.sss",
+    "block": 5783,
+    "size": 37146,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ReconnoiterCmd3.sss",
+    "block": 5802,
+    "size": 22876,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ReconnoiterCmd4.sss",
+    "block": 5814,
+    "size": 33722,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ReconnoiterProduce.sss",
+    "block": 5831,
+    "size": 30298,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ReconnoiterSel1.sss",
+    "block": 5846,
+    "size": 45704,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ReconnoiterSel2.sss",
+    "block": 5869,
+    "size": 32580,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VHU_ReconnoiterSel3.sss",
+    "block": 5885,
+    "size": 34864,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIINFORM_MissSelect.sss",
+    "block": 5903,
+    "size": 101384,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIINFORM_Muon.sss",
+    "block": 5953,
+    "size": 107000,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIINFORM_NeedSupply.sss",
+    "block": 6006,
+    "size": 97572,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIINFORM_Quark.sss",
+    "block": 6054,
+    "size": 103678,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VIINFORM_Research.sss",
+    "block": 6106,
+    "size": 85938,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIINFORM_UnderAttack.sss",
+    "block": 6148,
+    "size": 94782,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIINFORM_UnitLimitOver.sss",
+    "block": 6195,
+    "size": 123558,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIINFORM_Upgrade.sss",
+    "block": 6256,
+    "size": 89486,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BladeCmd1.sss",
+    "block": 6300,
+    "size": 119652,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BladeCmd2.sss",
+    "block": 6359,
+    "size": 99664,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BladeCmd3.sss",
+    "block": 6408,
+    "size": 88376,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BladeCmd4.sss",
+    "block": 6452,
+    "size": 75760,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BladeCmd5.sss",
+    "block": 6490,
+    "size": 106742,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BladeCmd6.sss",
+    "block": 6543,
+    "size": 90764,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BladeCmd7.sss",
+    "block": 6588,
+    "size": 108074,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BladeProduce.sss",
+    "block": 6641,
+    "size": 143438,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BladeSel1.sss",
+    "block": 6712,
+    "size": 97286,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BladeSel2.sss",
+    "block": 6760,
+    "size": 90756,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BladeSel3.sss",
+    "block": 6805,
+    "size": 132852,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BladeSel4.sss",
+    "block": 6870,
+    "size": 143134,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BlazerCmd1.sss",
+    "block": 6940,
+    "size": 108632,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BlazerCmd2.sss",
+    "block": 6994,
+    "size": 120220,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BlazerCmd3.sss",
+    "block": 7053,
+    "size": 120190,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BlazerProduce.sss",
+    "block": 7112,
+    "size": 200044,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BlazerSel1.sss",
+    "block": 7210,
+    "size": 97250,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BlazerSel2.sss",
+    "block": 7258,
+    "size": 124202,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BlazerSel3.sss",
+    "block": 7319,
+    "size": 99928,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_BlazerSel4.sss",
+    "block": 7369,
+    "size": 183412,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusCmd1.sss",
+    "block": 7459,
+    "size": 109356,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusCmd2.sss",
+    "block": 7513,
+    "size": 112998,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusCmd3.sss",
+    "block": 7569,
+    "size": 106230,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusCmd4.sss",
+    "block": 7621,
+    "size": 100428,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusCmd5.sss",
+    "block": 7671,
+    "size": 112480,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusCmd6.sss",
+    "block": 7726,
+    "size": 115334,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusCmd7.sss",
+    "block": 7783,
+    "size": 82950,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusCmd8.sss",
+    "block": 7824,
+    "size": 102046,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusCmd9.sss",
+    "block": 7874,
+    "size": 130370,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusProduce.sss",
+    "block": 7938,
+    "size": 124920,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusSel1.sss",
+    "block": 7999,
+    "size": 101026,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusSel2.sss",
+    "block": 8049,
+    "size": 97060,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusSel3.sss",
+    "block": 8097,
+    "size": 104198,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusSel4.sss",
+    "block": 8148,
+    "size": 105100,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CerberusSel5.sss",
+    "block": 8200,
+    "size": 101318,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CopolymerCmd1.sss",
+    "block": 8250,
+    "size": 109732,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CopolymerCmd2.sss",
+    "block": 8304,
+    "size": 128334,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CopolymerCmd3.sss",
+    "block": 8368,
+    "size": 141560,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CopolymerCmd4.sss",
+    "block": 8438,
+    "size": 159050,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CopolymerProduce.sss",
+    "block": 8516,
+    "size": 99422,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CopolymerSel1.sss",
+    "block": 8565,
+    "size": 152030,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CopolymerSel2.sss",
+    "block": 8640,
+    "size": 81138,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CopolymerSel3.sss",
+    "block": 8680,
+    "size": 112464,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_CopolymerSel4.sss",
+    "block": 8735,
+    "size": 129364,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NovadisCmd1.sss",
+    "block": 8800,
+    "size": 159188,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NovadisCmd2.sss",
+    "block": 8878,
+    "size": 140500,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NovadisCmd3.sss",
+    "block": 8947,
+    "size": 165958,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NovadisCmd4.sss",
+    "block": 9029,
+    "size": 145554,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NovadisCmd5.sss",
+    "block": 9101,
+    "size": 133290,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NovadisCmd6.sss",
+    "block": 9167,
+    "size": 132422,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NovadisCmd7.sss",
+    "block": 9233,
+    "size": 165208,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NovadisProduce.sss",
+    "block": 9314,
+    "size": 152402,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NovadisSel1.sss",
+    "block": 9389,
+    "size": 109070,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NovadisSel2.sss",
+    "block": 9443,
+    "size": 112476,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NovadisSel3.sss",
+    "block": 9498,
+    "size": 143382,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NovadisSel4.sss",
+    "block": 9569,
+    "size": 119876,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NovadisSel5.sss",
+    "block": 9629,
+    "size": 114130,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBCOEFF_BuildingCancel.sss",
+    "block": 9685,
+    "size": 26668,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBCOEFF_BuildingCompleted.sss",
+    "block": 9699,
+    "size": 45324,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBCOEFF_BuildingGrowth.sss",
+    "block": 9722,
+    "size": 99226,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBCOEFF_ExplosionGuardTower.sss",
+    "block": 9771,
+    "size": 55084,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBCOEFF_ExplosionLarge.sss",
+    "block": 9798,
+    "size": 97836,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBCOEFF_ExplosionMiddle.sss",
+    "block": 9846,
+    "size": 63520,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBCOEFF_ExplosionRefinery.sss",
+    "block": 9878,
+    "size": 22252,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBCOEFF_ExplosionSmall.sss",
+    "block": 9889,
+    "size": 24474,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBEFF_MantrapPlantWeaponCollision.sss",
+    "block": 9901,
+    "size": 14452,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBEFF_MantrapPlantWeaponFiring.sss",
+    "block": 9909,
+    "size": 23532,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBEFF_MoldWeaponCollision.sss",
+    "block": 9921,
+    "size": 31598,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBEFF_MoldWeaponFiring.sss",
+    "block": 9937,
+    "size": 51924,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBEFF_MoldWeaponJump.sss",
+    "block": 9963,
+    "size": 16430,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBEFF_RefineryPipe.sss",
+    "block": 9972,
+    "size": 45996,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBREP_AscomoidSelect.sss",
+    "block": 9995,
+    "size": 136876,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/CBREP_FLCHauntSelect.sss",
+    "block": 10063,
+    "size": 144428,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBREP_FLCRCSelect.sss",
+    "block": 10134,
+    "size": 182432,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBREP_HRBGHaunt1Select.sss",
+    "block": 10224,
+    "size": 91946,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBREP_HRBGHaunt2Select.sss",
+    "block": 10269,
+    "size": 133420,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBREP_HRBGRCSelect.sss",
+    "block": 10335,
+    "size": 155836,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBREP_MantrapPlantSelect.sss",
+    "block": 10412,
+    "size": 71726,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBREP_MoldSelect.sss",
+    "block": 10448,
+    "size": 210986,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBREP_QueensNestSelect.sss",
+    "block": 10552,
+    "size": 151956,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBREP_RefinerySelect.sss",
+    "block": 10627,
+    "size": 161580,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBREP_TozafarmSelect.sss",
+    "block": 10706,
+    "size": 134276,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/CBREPCO_ConstructorSelect.sss",
+    "block": 10773,
+    "size": 79926,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CBREPCO_UpgraderSelect.sss",
+    "block": 10813,
+    "size": 103592,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/COEFF_Cloaking.sss",
+    "block": 10864,
+    "size": 36040,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/COEFF_Decloaking.sss",
+    "block": 10882,
+    "size": 82732,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/COEFF_RallyPoint.sss",
+    "block": 10923,
+    "size": 37870,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/COEFF_ResourceIn.sss",
+    "block": 10942,
+    "size": 53034,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/COEFF_ResourceOut.sss",
+    "block": 10968,
+    "size": 48426,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUCOEFF_TrapBurrow.sss",
+    "block": 10992,
+    "size": 66874,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUCOEFF_TrapGrasp.sss",
+    "block": 11025,
+    "size": 44142,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUCOEFF_TrapTakeDown.sss",
+    "block": 11047,
+    "size": 60332,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_BehemothBerserker.sss",
+    "block": 11077,
+    "size": 58028,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_BehemothDeath.sss",
+    "block": 11106,
+    "size": 57292,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_BehemothWeapon.sss",
+    "block": 11134,
+    "size": 29900,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_CarbuncleBomb.sss",
+    "block": 11149,
+    "size": 56234,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_CarbuncleDeath.sss",
+    "block": 11177,
+    "size": 56462,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_CrowDeath.sss",
+    "block": 11205,
+    "size": 53036,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_CrowWeaponCollision.sss",
+    "block": 11231,
+    "size": 25402,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_CrowWeaponFiring.sss",
+    "block": 11244,
+    "size": 40428,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_DemonDeath.sss",
+    "block": 11265,
+    "size": 60716,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_DemonWeaponCollision.sss",
+    "block": 11295,
+    "size": 34348,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_DemonWeaponFiring.sss",
+    "block": 11312,
+    "size": 77588,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_DemonWeaponReady.sss",
+    "block": 11350,
+    "size": 33502,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_FireDeath.sss",
+    "block": 11367,
+    "size": 31852,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_FireWeapon.sss",
+    "block": 11383,
+    "size": 15244,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_GrellDeath.sss",
+    "block": 11391,
+    "size": 70190,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_GrellLoad.sss",
+    "block": 11426,
+    "size": 32046,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_GrellUnload.sss",
+    "block": 11442,
+    "size": 54316,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_HornetDeath.sss",
+    "block": 11469,
+    "size": 36268,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_HornetWeaponCollision.sss",
+    "block": 11487,
+    "size": 50326,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_HornetWeaponFiring.sss",
+    "block": 11512,
+    "size": 25420,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_LeopardDeath.sss",
+    "block": 11525,
+    "size": 43626,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_LeopardWeaponCollision.sss",
+    "block": 11547,
+    "size": 14252,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_LeopardWeaponFiring.sss",
+    "block": 11554,
+    "size": 22092,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_LeopardWeaponToxic.sss",
+    "block": 11565,
+    "size": 22250,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_MandragoraBomb.sss",
+    "block": 11576,
+    "size": 42008,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_MandragoraDeath.sss",
+    "block": 11597,
+    "size": 32970,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_MindParasiteDeath.sss",
+    "block": 11614,
+    "size": 50988,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_MindParasitePossess.sss",
+    "block": 11639,
+    "size": 22034,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_OzzyDeath.sss",
+    "block": 11650,
+    "size": 36458,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_OzzyToBuilder.sss",
+    "block": 11668,
+    "size": 43996,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_OzzyWeapon.sss",
+    "block": 11690,
+    "size": 15050,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_RocDeath.sss",
+    "block": 11699,
+    "size": 45612,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_RocWeaponCollision.sss",
+    "block": 11722,
+    "size": 62508,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_RocWeaponFiring.sss",
+    "block": 11753,
+    "size": 40380,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_RocWeaponReady.sss",
+    "block": 11773,
+    "size": 28618,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_SneakerCallMindParasite.sss",
+    "block": 11787,
+    "size": 73004,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_SneakerChaosCollision.sss",
+    "block": 11823,
+    "size": 92204,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_SneakerDeath.sss",
+    "block": 11869,
+    "size": 81962,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_SneakerSkillReady.sss",
+    "block": 11910,
+    "size": 34794,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_SneakerSnipeCollision.sss",
+    "block": 11927,
+    "size": 41516,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_SneakerSnipeFiring.sss",
+    "block": 11948,
+    "size": 57036,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_TachyonDeath.sss",
+    "block": 11976,
+    "size": 60116,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_TachyonHealCollision.sss",
+    "block": 12006,
+    "size": 92812,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_TachyonOpticalFlareCollision.sss",
+    "block": 12052,
+    "size": 38212,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_TachyonSkillReady.sss",
+    "block": 12071,
+    "size": 46092,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_TachyonWatchCollision.sss",
+    "block": 12095,
+    "size": 39980,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/CUEFF_TachyonWatchFiring.sss",
+    "block": 12115,
+    "size": 43628,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBCOEFF_AddOnConnect.sss",
+    "block": 12137,
+    "size": 43870,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBCOEFF_AddOnDisconnect.sss",
+    "block": 12159,
+    "size": 40524,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBCOEFF_BuildingCancel.sss",
+    "block": 12179,
+    "size": 100654,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBCOEFF_BuildingHide.sss",
+    "block": 12229,
+    "size": 167466,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBCOEFF_BuildingShow.sss",
+    "block": 12311,
+    "size": 170282,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBCOEFF_ExplosionCPAddon.sss",
+    "block": 12395,
+    "size": 56364,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBCOEFF_ExplosionLarge.sss",
+    "block": 12423,
+    "size": 236588,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBCOEFF_ExplosionMachineTower.sss",
+    "block": 12539,
+    "size": 128044,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBCOEFF_ExplosionMiddle.sss",
+    "block": 12602,
+    "size": 127660,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBCOEFF_ExplosionPowerstation.sss",
+    "block": 12665,
+    "size": 88620,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBCOEFF_ExplosionSmall.sss",
+    "block": 12709,
+    "size": 70444,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_Centralport3Downgrade.sss",
+    "block": 12744,
+    "size": 156550,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_Centralport3Upgrade.sss",
+    "block": 12821,
+    "size": 143532,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_MachineTowerMoveC1.sss",
+    "block": 12892,
+    "size": 17720,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_MachineTowerMoveC2.sss",
+    "block": 12901,
+    "size": 26524,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_MachineTowerMoveC3.sss",
+    "block": 12914,
+    "size": 50002,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_MachineTowerMoveC4.sss",
+    "block": 12939,
+    "size": 49450,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_MachineTowerMoveR1.sss",
+    "block": 12964,
+    "size": 45980,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_MachineTowerMoveR2.sss",
+    "block": 12987,
+    "size": 64300,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_MachineTowerMoveR3.sss",
+    "block": 13019,
+    "size": 26524,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_MachineTowerMoveR4.sss",
+    "block": 13032,
+    "size": 17720,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_MachineTowerWeapon.sss",
+    "block": 13041,
+    "size": 31646,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_PowerStationPipe.sss",
+    "block": 13057,
+    "size": 41132,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_TeleportTakeOff1.sss",
+    "block": 13078,
+    "size": 144152,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_TeleportTakeOff2.sss",
+    "block": 13149,
+    "size": 72748,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_TeleportTakeOff3.sss",
+    "block": 13185,
+    "size": 99918,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_TeleportWarpEnd.sss",
+    "block": 13235,
+    "size": 43690,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBEFF_TeleportWarpStart.sss",
+    "block": 13257,
+    "size": 78746,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_BarrackAddOnSelect.sss",
+    "block": 13296,
+    "size": 82220,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_BarrackProducingSelect.sss",
+    "block": 13337,
+    "size": 153680,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_BarrackSelect.sss",
+    "block": 13413,
+    "size": 116778,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_CentralportAddOn1Select.sss",
+    "block": 13471,
+    "size": 78894,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_CentralportAddOn2Select.sss",
+    "block": 13510,
+    "size": 60908,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_CentralportSelect.sss",
+    "block": 13540,
+    "size": 92076,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_HouseSelect.sss",
+    "block": 13585,
+    "size": 94890,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_MachineTowerSelect.sss",
+    "block": 13632,
+    "size": 91946,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_PowerstationSelect.sss",
+    "block": 13677,
+    "size": 53292,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_TeleportSelect.sss",
+    "block": 13704,
+    "size": 99628,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_WarFactoryAddOnSelect.sss",
+    "block": 13753,
+    "size": 139310,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_WarFactoryProducingSelect.sss",
+    "block": 13822,
+    "size": 105132,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_WarFactorySelect.sss",
+    "block": 13874,
+    "size": 151594,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_WeaponeryPlantAddOnSelect.sss",
+    "block": 13949,
+    "size": 108588,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_WeaponeryPlantProducingSelect.sss",
+    "block": 14003,
+    "size": 87212,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREP_WeaponeryPlantSelect.sss",
+    "block": 14046,
+    "size": 117164,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREPCO_ConstructorSelect.sss",
+    "block": 14104,
+    "size": 66356,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREPCO_FlamingLarge.sss",
+    "block": 14137,
+    "size": 89390,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREPCO_FlamingSmall.sss",
+    "block": 14181,
+    "size": 82476,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HBREPCO_UpgraderSelect.sss",
+    "block": 14222,
+    "size": 59960,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_AeroFighterAWeaponCollision.sss",
+    "block": 14252,
+    "size": 42666,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_AeroFighterAWeaponFiring.sss",
+    "block": 14273,
+    "size": 52266,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_AeroFighterDeath.sss",
+    "block": 14299,
+    "size": 49452,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_AeroFighterGWeapon.sss",
+    "block": 14324,
+    "size": 13484,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_AeroFighterTurbo.sss",
+    "block": 14331,
+    "size": 130768,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ATVDeath.sss",
+    "block": 14396,
+    "size": 70698,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ATVPropChange1.sss",
+    "block": 14431,
+    "size": 79662,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ATVPropChange2.sss",
+    "block": 14470,
+    "size": 45494,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ATVPropChange3.sss",
+    "block": 14493,
+    "size": 68288,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ATVPropChange4.sss",
+    "block": 14527,
+    "size": 38478,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ATVPropDeath.sss",
+    "block": 14546,
+    "size": 57132,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ATVPropWeaponCollision.sss",
+    "block": 14574,
+    "size": 54764,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ATVPropWeaponFiring.sss",
+    "block": 14601,
+    "size": 61844,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ATVUnpropChange1.sss",
+    "block": 14632,
+    "size": 79660,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ATVUnpropChange2.sss",
+    "block": 14671,
+    "size": 68288,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ATVUnpropChange3.sss",
+    "block": 14705,
+    "size": 69678,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ATVUnpropChange4.sss",
+    "block": 14740,
+    "size": 38478,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ATVWeaponCollision.sss",
+    "block": 14759,
+    "size": 35212,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ATVWeaponFiring.sss",
+    "block": 14777,
+    "size": 35378,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_CarrierDeath.sss",
+    "block": 14795,
+    "size": 61932,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_CarrierLoad.sss",
+    "block": 14826,
+    "size": 38958,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_CarrierUnload.sss",
+    "block": 14846,
+    "size": 71200,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_CMDAmbushDeath.sss",
+    "block": 14881,
+    "size": 70698,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_CMDAmbushWeapon.sss",
+    "block": 14916,
+    "size": 31402,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_CommandoAmbush.sss",
+    "block": 14932,
+    "size": 42012,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_CommandoUnambush.sss",
+    "block": 14953,
+    "size": 43068,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_CommandoWeapon.sss",
+    "block": 14975,
+    "size": 31402,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_CommandShuttleBuild1.sss",
+    "block": 14992,
+    "size": 55302,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_CommandShuttleBuild2.sss",
+    "block": 15020,
+    "size": 119094,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_CommandShuttleBuildErr.sss",
+    "block": 15079,
+    "size": 56364,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_CommandShuttleDeath.sss",
+    "block": 15107,
+    "size": 48684,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_DetectorDeath.sss",
+    "block": 15131,
+    "size": 94314,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_DetectorEMPCannon.sss",
+    "block": 15178,
+    "size": 135226,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_DetectorEMPShockWave.sss",
+    "block": 15245,
+    "size": 91264,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_DetectorSkillReady.sss",
+    "block": 15290,
+    "size": 35440,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_EngineerDeath.sss",
+    "block": 15308,
+    "size": 46926,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_EngineerWeapon.sss",
+    "block": 15331,
+    "size": 78892,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_FlameRunnerDeath.sss",
+    "block": 15370,
+    "size": 66858,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_FlameRunnerWeapon.sss",
+    "block": 15403,
+    "size": 42238,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_FortressWarShipDeath.sss",
+    "block": 15424,
+    "size": 82348,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_FortressWarShipGUNFiring.sss",
+    "block": 15465,
+    "size": 82208,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_FortressWarShipGUNOpen.sss",
+    "block": 15506,
+    "size": 54106,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_FortressWarShipWeaponCollision.sss",
+    "block": 15533,
+    "size": 15052,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_FortressWarShipWeaponFiring.sss",
+    "block": 15541,
+    "size": 36670,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_HeavyTankDeath.sss",
+    "block": 15559,
+    "size": 47264,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_HeavyTankWeapon.sss",
+    "block": 15583,
+    "size": 51148,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_MovingBunkerDeath.sss",
+    "block": 15608,
+    "size": 54636,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_MovingBunkerLanding1.sss",
+    "block": 15635,
+    "size": 92810,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_MovingBunkerLanding2.sss",
+    "block": 15682,
+    "size": 46640,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_MovingBunkerLoad.sss",
+    "block": 15705,
+    "size": 37440,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_MovingBunkerTakeOff1.sss",
+    "block": 15724,
+    "size": 53814,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_MovingBunkerTakeOff2.sss",
+    "block": 15751,
+    "size": 82988,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_MovingBunkerUnload.sss",
+    "block": 15792,
+    "size": 32326,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_PrivateWeapon.sss",
+    "block": 15808,
+    "size": 29612,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ReconnoiterScanCollision.sss",
+    "block": 15823,
+    "size": 72812,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ReconnoiterScanFiring.sss",
+    "block": 15859,
+    "size": 49228,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ReconnoiterVirusCollision.sss",
+    "block": 15884,
+    "size": 31756,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/HUEFF_ReconnoiterVirusFiring.sss",
+    "block": 15900,
+    "size": 43050,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBCOEFF_BuildCompletedBomb.sss",
+    "block": 15922,
+    "size": 181548,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBCOEFF_BuildCompletedTransform.sss",
+    "block": 16011,
+    "size": 71404,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBCOEFF_BuildingCancel.sss",
+    "block": 16046,
+    "size": 191826,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/IBCOEFF_BuildingUpgradeLineUP.sss",
+    "block": 16141,
+    "size": 111750,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBCOEFF_BuildingUpgradeTransform.sss",
+    "block": 16196,
+    "size": 250668,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBCOEFF_ExplosionBulwark.sss",
+    "block": 16319,
+    "size": 81516,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBCOEFF_ExplosionBurn.sss",
+    "block": 16359,
+    "size": 100654,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBCOEFF_ExplosionLarge.sss",
+    "block": 16409,
+    "size": 239886,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBCOEFF_ExplosionMiddle.sss",
+    "block": 16527,
+    "size": 126316,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/IBCOEFF_ExplosionSmall.sss",
+    "block": 16590,
+    "size": 87532,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBCOEFF_ExplosionSuckingBase.sss",
+    "block": 16633,
+    "size": 108716,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBCOEFF_ShieldExplosion.sss",
+    "block": 16687,
+    "size": 33834,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBEFF_BulwarkWeaponCollision.sss",
+    "block": 16704,
+    "size": 35534,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBEFF_BulwarkWeaponFiring.sss",
+    "block": 16722,
+    "size": 38966,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBEFF_BulwarkWeaponReady.sss",
+    "block": 16742,
+    "size": 29236,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBEFF_BurnWeapon.sss",
+    "block": 16757,
+    "size": 55874,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBEFF_SuckingBasePipe.sss",
+    "block": 16785,
+    "size": 62572,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBREP_BulwarkSelect.sss",
+    "block": 16816,
+    "size": 90156,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBREP_BurnSelect.sss",
+    "block": 16861,
+    "size": 132012,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBREP_CostaCenterSelect.sss",
+    "block": 16926,
+    "size": 164138,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBREP_DarkPortalSelect.sss",
+    "block": 17007,
+    "size": 72088,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBREP_OutpostBuildUpSelect.sss",
+    "block": 17043,
+    "size": 167596,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/IBREP_OutpostSelect.sss",
+    "block": 17126,
+    "size": 102442,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBREP_OutpostTechUpSelect.sss",
+    "block": 17177,
+    "size": 285226,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBREP_PulseCenterSelect.sss",
+    "block": 17317,
+    "size": 127146,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBREP_SpaceportBuildUpSelect.sss",
+    "block": 17380,
+    "size": 88620,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBREP_SpaceportSelect.sss",
+    "block": 17424,
+    "size": 91690,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBREP_SpaceportTechUpSelect.sss",
+    "block": 17469,
+    "size": 83912,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/IBREP_SuckingBaseSelect.sss",
+    "block": 17511,
+    "size": 110918,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBREPCO_ConstructorSelect.sss",
+    "block": 17566,
+    "size": 84820,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBREPCO_FlamingLarge.sss",
+    "block": 17608,
+    "size": 207972,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBREPCO_FlamingSmall.sss",
+    "block": 17710,
+    "size": 207972,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IBREPCO_UpgraderSelect.sss",
+    "block": 17812,
+    "size": 130822,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IFF_BuildingCreatese.sss",
+    "block": 17876,
+    "size": 31308,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IFF_BuildingHominian.sss",
+    "block": 17892,
+    "size": 56678,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IFF_BuildingIntelion.sss",
+    "block": 17920,
+    "size": 58938,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IFF_Button.sss",
+    "block": 17949,
+    "size": 6752,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IFF_Menu.sss",
+    "block": 17953,
+    "size": 19634,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/iff_Miss.sss",
+    "block": 17963,
+    "size": 15668,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/iff_receivemessage.sss",
+    "block": 17971,
+    "size": 9156,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_BladeDeath.sss",
+    "block": 17976,
+    "size": 65056,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_BladeEnergyShield.sss",
+    "block": 18008,
+    "size": 130602,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_BladeTeleportationFrom.sss",
+    "block": 18072,
+    "size": 17292,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_BladeTeleportationTo.sss",
+    "block": 18081,
+    "size": 20364,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_BladeUnenergyShield.sss",
+    "block": 18091,
+    "size": 36096,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_BladeWeapon.sss",
+    "block": 18109,
+    "size": 19304,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_BlazerDeath.sss",
+    "block": 18119,
+    "size": 88878,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_BlazerWeaponCollision.sss",
+    "block": 18163,
+    "size": 16524,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_BlazerWeaponFiring.sss",
+    "block": 18172,
+    "size": 45676,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_CerberusDeath.sss",
+    "block": 18195,
+    "size": 88878,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_CerberusWeaponCollision.sss",
+    "block": 18240,
+    "size": 36908,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_CerberusWeaponFiring.sss",
+    "block": 18259,
+    "size": 63916,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_CopolymerAWeaponCollision.sss",
+    "block": 18291,
+    "size": 24620,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_CopolymerAWeaponFiring.sss",
+    "block": 18304,
+    "size": 50348,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_CopolymerDeath.sss",
+    "block": 18329,
+    "size": 65836,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_CopolymerGWeaponCollision.sss",
+    "block": 18362,
+    "size": 36524,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_CopolymerGWeaponFiring.sss",
+    "block": 18380,
+    "size": 36996,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_EnigmaDeath.sss",
+    "block": 18399,
+    "size": 57644,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_EnigmaGravityField.sss",
+    "block": 18428,
+    "size": 70252,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_EnigmaHaste.sss",
+    "block": 18463,
+    "size": 214806,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_EnigmaMultiCloaking.sss",
+    "block": 18568,
+    "size": 47246,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_HickeyDeath.sss",
+    "block": 18592,
+    "size": 62764,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_HickeyWeaponCharge.sss",
+    "block": 18623,
+    "size": 24106,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_HickeyWeaponCollision.sss",
+    "block": 18635,
+    "size": 13722,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_HickeyWeaponFiring.sss",
+    "block": 18642,
+    "size": 40234,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_JunkerBomb.sss",
+    "block": 18662,
+    "size": 26668,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_JunkerDeath.sss",
+    "block": 18676,
+    "size": 46348,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_LightBallDeath.sss",
+    "block": 18699,
+    "size": 45198,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_ManglerAWeaponCollision.sss",
+    "block": 18722,
+    "size": 46892,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_ManglerAWeaponFiring.sss",
+    "block": 18745,
+    "size": 65580,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_ManglerDeath.sss",
+    "block": 18778,
+    "size": 66748,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_ManglerGWeaponCollision.sss",
+    "block": 18811,
+    "size": 16364,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_ManglerGWeaponFiring.sss",
+    "block": 18819,
+    "size": 56108,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_MigratorDeath.sss",
+    "block": 18847,
+    "size": 88878,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_MigratorLoad.sss",
+    "block": 18891,
+    "size": 26186,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_MigratorUnload.sss",
+    "block": 18904,
+    "size": 26186,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_NailerDeath.sss",
+    "block": 18917,
+    "size": 44586,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_NailerSupport.sss",
+    "block": 18939,
+    "size": 87268,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_NailerToBuilder.sss",
+    "block": 18982,
+    "size": 85610,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_NailerWeapon.sss",
+    "block": 19024,
+    "size": 31948,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_NovadisDeath.sss",
+    "block": 19040,
+    "size": 82092,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_NovadisDeathCollision.sss",
+    "block": 19082,
+    "size": 28220,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_NovadisDeathFiring.sss",
+    "block": 19096,
+    "size": 42028,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_NovadisEnergyField.sss",
+    "block": 19117,
+    "size": 103402,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_NovadisNovaStorm.sss",
+    "block": 19168,
+    "size": 129964,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_NovadisSkillReady.sss",
+    "block": 19232,
+    "size": 47658,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_SeraphimDeath.sss",
+    "block": 19256,
+    "size": 88878,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/IUEFF_SeraphimLightBall.sss",
+    "block": 19300,
+    "size": 100396,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/oie_briefingcommentary.sss",
+    "block": 19350,
+    "size": 6284,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/oie_briefingspeech.sss",
+    "block": 19354,
+    "size": 2640,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/oie_checkbox.sss",
+    "block": 19356,
+    "size": 2106,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/oie_controlclick.sss",
+    "block": 19358,
+    "size": 57644,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/oie_controlon.sss",
+    "block": 19387,
+    "size": 24956,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/oie_editboxtype.sss",
+    "block": 19400,
+    "size": 3892,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/oie_listboxintofolder.sss",
+    "block": 19402,
+    "size": 55602,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/oie_listboxscroll.sss",
+    "block": 19430,
+    "size": 4786,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/oie_listboxselect.sss",
+    "block": 19433,
+    "size": 24746,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/oie_logoin.sss",
+    "block": 19446,
+    "size": 297258,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/oie_logoout.sss",
+    "block": 19593,
+    "size": 181440,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/oie_quickmenuelectro.sss",
+    "block": 19682,
+    "size": 44396,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/oie_racerotate.sss",
+    "block": 19704,
+    "size": 21480,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/OIE_RaceRotateCreatese.sss",
+    "block": 19715,
+    "size": 189334,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/OIE_RaceRotateHominian.sss",
+    "block": 19808,
+    "size": 110558,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/OIE_RaceRotateIntelion.sss",
+    "block": 19862,
+    "size": 129804,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/oie_tabbutton.sss",
+    "block": 19926,
+    "size": 22430,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/oie_teamchange.sss",
+    "block": 19937,
+    "size": 23752,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_BehemothCmd1.sss",
+    "block": 19949,
+    "size": 62764,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_BehemothCmd2.sss",
+    "block": 19980,
+    "size": 58134,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_BehemothProduce.sss",
+    "block": 20009,
+    "size": 86734,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_BehemothSel1.sss",
+    "block": 20053,
+    "size": 67628,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_BehemothSel2.sss",
+    "block": 20087,
+    "size": 53292,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_CrowCmd1.sss",
+    "block": 20114,
+    "size": 50668,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_CrowCmd2.sss",
+    "block": 20139,
+    "size": 54700,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_CrowProduce.sss",
+    "block": 20166,
+    "size": 46830,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_CrowSel1.sss",
+    "block": 20189,
+    "size": 60780,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_CrowSel2.sss",
+    "block": 20219,
+    "size": 56878,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_DemonCmd1.sss",
+    "block": 20247,
+    "size": 52780,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_DemonCmd2.sss",
+    "block": 20273,
+    "size": 50860,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_DemonProduce.sss",
+    "block": 20298,
+    "size": 33132,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_DemonSel1.sss",
+    "block": 20315,
+    "size": 50988,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_DemonSel2.sss",
+    "block": 20340,
+    "size": 64556,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_FireCmd1.sss",
+    "block": 20372,
+    "size": 49056,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_FireCmd2.sss",
+    "block": 20396,
+    "size": 44396,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_FireProduce.sss",
+    "block": 20418,
+    "size": 53296,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_FireSel1.sss",
+    "block": 20445,
+    "size": 49644,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_FireSel2.sss",
+    "block": 20470,
+    "size": 51692,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_GrellCmd1.sss",
+    "block": 20496,
+    "size": 80088,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_GrellCmd2.sss",
+    "block": 20536,
+    "size": 57902,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_GrellProduce.sss",
+    "block": 20565,
+    "size": 66758,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_GrellSel1.sss",
+    "block": 20598,
+    "size": 71724,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_GrellSel2.sss",
+    "block": 20634,
+    "size": 66758,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_HornetCmd1.sss",
+    "block": 20667,
+    "size": 49016,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_HornetCmd2.sss",
+    "block": 20691,
+    "size": 46270,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_HornetProduce.sss",
+    "block": 20714,
+    "size": 47278,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_HornetSel1.sss",
+    "block": 20738,
+    "size": 45100,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_HornetSel2.sss",
+    "block": 20761,
+    "size": 46092,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_LeopardCmd1.sss",
+    "block": 20784,
+    "size": 45866,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_LeopardCmd2.sss",
+    "block": 20808,
+    "size": 51242,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_LeopardProduce.sss",
+    "block": 20834,
+    "size": 69546,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_LeopardSel1.sss",
+    "block": 20868,
+    "size": 60842,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_LeopardSel2.sss",
+    "block": 20898,
+    "size": 55978,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_OzzyCmd1.sss",
+    "block": 20926,
+    "size": 23724,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_OzzyCmd2.sss",
+    "block": 20938,
+    "size": 33836,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_OzzyProduce.sss",
+    "block": 20955,
+    "size": 33324,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_OzzySel1.sss",
+    "block": 20972,
+    "size": 27566,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_OzzySel2.sss",
+    "block": 20986,
+    "size": 39554,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_RocCmd1.sss",
+    "block": 21006,
+    "size": 57388,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_RocCmd2.sss",
+    "block": 21035,
+    "size": 41516,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_RocProduce.sss",
+    "block": 21056,
+    "size": 62764,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_RocSel1.sss",
+    "block": 21087,
+    "size": 55340,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_RocSel2.sss",
+    "block": 21115,
+    "size": 62508,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_SneakerCmd1.sss",
+    "block": 21146,
+    "size": 68652,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_SneakerCmd2.sss",
+    "block": 21180,
+    "size": 81452,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_SneakerProduce.sss",
+    "block": 21220,
+    "size": 62508,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_SneakerSel1.sss",
+    "block": 21251,
+    "size": 45356,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_SneakerSel2.sss",
+    "block": 21274,
+    "size": 56364,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_TachyonCmd1.sss",
+    "block": 21302,
+    "size": 58570,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_TachyonCmd2.sss",
+    "block": 21332,
+    "size": 65706,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_TachyonProduce.sss",
+    "block": 21365,
+    "size": 55340,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_TachyonSel1.sss",
+    "block": 21393,
+    "size": 57044,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VCU_TachyonSel2.sss",
+    "block": 21421,
+    "size": 55340,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_EnigmaCmd1.sss",
+    "block": 21449,
+    "size": 44650,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_EnigmaCmd2.sss",
+    "block": 21471,
+    "size": 39978,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_EnigmaProduce.sss",
+    "block": 21491,
+    "size": 46442,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_EnigmaSel1.sss",
+    "block": 21514,
+    "size": 45866,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_EnigmaSel2.sss",
+    "block": 21537,
+    "size": 42602,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_HickeyCmd1.sss",
+    "block": 21558,
+    "size": 62108,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_HickeyCmd2.sss",
+    "block": 21589,
+    "size": 63258,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_HickeyProduce.sss",
+    "block": 21620,
+    "size": 56364,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_HickeySel1.sss",
+    "block": 21648,
+    "size": 43052,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_HickeySel2.sss",
+    "block": 21670,
+    "size": 70154,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_JunkerCmd1.sss",
+    "block": 21705,
+    "size": 34474,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_JunkerCmd2.sss",
+    "block": 21722,
+    "size": 42794,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_JunkerProduce.sss",
+    "block": 21743,
+    "size": 48554,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_JunkerSel1.sss",
+    "block": 21767,
+    "size": 33002,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_JunkerSel2.sss",
+    "block": 21784,
+    "size": 38954,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_ManglerCmd1.sss",
+    "block": 21804,
+    "size": 61738,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_ManglerCmd2.sss",
+    "block": 21835,
+    "size": 63274,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_ManglerProduce.sss",
+    "block": 21866,
+    "size": 56874,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_ManglerSel1.sss",
+    "block": 21894,
+    "size": 56874,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_ManglerSel2.sss",
+    "block": 21922,
+    "size": 54034,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_MigratorCmd1.sss",
+    "block": 21949,
+    "size": 43946,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_MigratorCmd2.sss",
+    "block": 21971,
+    "size": 44388,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_MigratorProduce.sss",
+    "block": 21993,
+    "size": 44714,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_MigratorSel1.sss",
+    "block": 22015,
+    "size": 44458,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_MigratorSel2.sss",
+    "block": 22037,
+    "size": 39594,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NailerCmd1.sss",
+    "block": 22057,
+    "size": 34286,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NailerCmd2.sss",
+    "block": 22075,
+    "size": 43934,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NailerProduce.sss",
+    "block": 22097,
+    "size": 49964,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NailerSel1.sss",
+    "block": 22122,
+    "size": 36460,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_NailerSel2.sss",
+    "block": 22140,
+    "size": 37034,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_SeraphimCmd1.sss",
+    "block": 22159,
+    "size": 51564,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_SeraphimCmd2.sss",
+    "block": 22185,
+    "size": 54426,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_SeraphimProduce.sss",
+    "block": 22212,
+    "size": 42540,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_SeraphimSel1.sss",
+    "block": 22233,
+    "size": 49860,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/effect/VIU_SeraphimSel2.sss",
+    "block": 22258,
+    "size": 50988,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gamestr.rts",
+    "block": 26,
+    "size": 9241,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb_Ascomoid.gst",
+    "block": 23240,
+    "size": 64826,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb_FLCHaunt.gst",
+    "block": 23272,
+    "size": 37795,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb_FLCRC.gst",
+    "block": 23291,
+    "size": 27313,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb_HRBGHaunt1.gst",
+    "block": 23305,
+    "size": 24205,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb_HRBGHaunt2.gst",
+    "block": 23317,
+    "size": 39166,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb_HRBGRC.gst",
+    "block": 23337,
+    "size": 26491,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb_MantrapPlant.gst",
+    "block": 23350,
+    "size": 20480,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb_MantrapPlant_Bug.gst",
+    "block": 23360,
+    "size": 14110,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb_Mold.gst",
+    "block": 23367,
+    "size": 25037,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb_Queen'sNest1.gst",
+    "block": 23380,
+    "size": 115998,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb_Queen'sNest2.gst",
+    "block": 23437,
+    "size": 77190,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb_Queen'sNest3.gst",
+    "block": 23475,
+    "size": 95625,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb_Refinery.gst",
+    "block": 23522,
+    "size": 155568,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb_TozaFarm.gst",
+    "block": 23598,
+    "size": 13976,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb__Create.gst",
+    "block": 23606,
+    "size": 372700,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb__Damage.gst",
+    "block": 23788,
+    "size": 42160,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb__Dead.gst",
+    "block": 23809,
+    "size": 47453,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crb__DeadEffect.gst",
+    "block": 23833,
+    "size": 197339,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crt_Carbuncle.gst",
+    "block": 23930,
+    "size": 31964,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/crt_Mandragora.gst",
+    "block": 23946,
+    "size": 27078,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Behemoth.gst",
+    "block": 23960,
+    "size": 260838,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Behemoth_Breath.gst",
+    "block": 24088,
+    "size": 148737,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Crow.gst",
+    "block": 24161,
+    "size": 44546,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Crow_Sonic.gst",
+    "block": 24183,
+    "size": 4778,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Demon.gst",
+    "block": 24186,
+    "size": 1048755,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Fire.gst",
+    "block": 24699,
+    "size": 41759,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Grell.gst",
+    "block": 24720,
+    "size": 62274,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Hornet.gst",
+    "block": 24751,
+    "size": 217550,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Hornet_Toxic.gst",
+    "block": 24858,
+    "size": 7905,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Leopard.gst",
+    "block": 24862,
+    "size": 127206,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Leopard_Toxic.gst",
+    "block": 24926,
+    "size": 33524,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_MindParasite.gst",
+    "block": 24943,
+    "size": 210409,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_MindParasite_Possess.gst",
+    "block": 25046,
+    "size": 39294,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Ozzy.gst",
+    "block": 25066,
+    "size": 146935,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Roc.gst",
+    "block": 25138,
+    "size": 322425,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Roc_Ball.gst",
+    "block": 25296,
+    "size": 180201,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Sneaker.gst",
+    "block": 25384,
+    "size": 51607,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Sneaker_Heal.gst",
+    "block": 25410,
+    "size": 214429,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Sneaker_HealP.gst",
+    "block": 25515,
+    "size": 8784,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Sneaker_MParasite.gst",
+    "block": 25520,
+    "size": 4255,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Sneaker_Snipe.gst",
+    "block": 25523,
+    "size": 13409,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Tachyon.gst",
+    "block": 25530,
+    "size": 434213,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Tachyon_Chaos.gst",
+    "block": 25743,
+    "size": 17296,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Tachyon_OpticalFlare.gst",
+    "block": 25752,
+    "size": 170240,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru_Tachyon_Watch.gst",
+    "block": 25836,
+    "size": 6389,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru__Dead.gst",
+    "block": 25840,
+    "size": 48246,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/cru__DeadEffect.gst",
+    "block": 25865,
+    "size": 229027,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_cr/vssver.scc",
+    "block": 25977,
+    "size": 784,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob_Barrack.gst",
+    "block": 25979,
+    "size": 55841,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob_Barrack_AddOn.gst",
+    "block": 26007,
+    "size": 24249,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob_CentralPort1.gst",
+    "block": 26019,
+    "size": 107192,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob_CentralPort2.gst",
+    "block": 26072,
+    "size": 50161,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob_CentralPort3.gst",
+    "block": 26097,
+    "size": 120591,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/Hob_CentralPort_AddOn1.gst",
+    "block": 26156,
+    "size": 36177,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/Hob_CentralPort_AddOn2.gst",
+    "block": 26174,
+    "size": 74459,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob_House.gst",
+    "block": 26211,
+    "size": 11572,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob_MachineTower.gst",
+    "block": 26217,
+    "size": 88981,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob_MachineTower_Gun.gst",
+    "block": 26261,
+    "size": 4681,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob_PowerStation.gst",
+    "block": 26264,
+    "size": 96561,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob_Teleport.gst",
+    "block": 26312,
+    "size": 135064,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob_WarFactory.gst",
+    "block": 26378,
+    "size": 74405,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob_WarFactory_AddOn.gst",
+    "block": 26415,
+    "size": 44702,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob_WeaponeryPlant.gst",
+    "block": 26438,
+    "size": 103245,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/Hob_WeaponeryPlant_AddOn.gst",
+    "block": 26489,
+    "size": 25448,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob__Create.gst",
+    "block": 26502,
+    "size": 1332,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob__Damage.gst",
+    "block": 26503,
+    "size": 100406,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob__Dead.gst",
+    "block": 26553,
+    "size": 43134,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hob__DeadEffect.gst",
+    "block": 26575,
+    "size": 877430,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_AeroFighter.gst",
+    "block": 27004,
+    "size": 113473,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_AeroFighter_Gun.gst",
+    "block": 27060,
+    "size": 4509,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_AeroFighter_Missile.gst",
+    "block": 27063,
+    "size": 11344,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_ATV.gst",
+    "block": 27069,
+    "size": 82761,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_ATVProp.gst",
+    "block": 27110,
+    "size": 137725,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_ATVProp_Missile.gst",
+    "block": 27179,
+    "size": 15457,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_ATV_H.gst",
+    "block": 27187,
+    "size": 12419,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_ATV_Missile.gst",
+    "block": 27194,
+    "size": 12512,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_Carrier.gst",
+    "block": 27201,
+    "size": 105284,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_Commando.gst",
+    "block": 27253,
+    "size": 95108,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_CommandoAmbush.gst",
+    "block": 27301,
+    "size": 5033,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_CommandShuttle.gst",
+    "block": 27304,
+    "size": 264391,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_Detector.gst",
+    "block": 27434,
+    "size": 231739,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_Detector_EMPCannon.gst",
+    "block": 27548,
+    "size": 176290,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_Detector_EMPShockwave.gst",
+    "block": 27635,
+    "size": 247123,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_Engineer.gst",
+    "block": 27756,
+    "size": 65350,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_FlameRunner.gst",
+    "block": 27788,
+    "size": 72847,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_FlameRunner_H.gst",
+    "block": 27824,
+    "size": 78943,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_FortressWarShip.gst",
+    "block": 27863,
+    "size": 1082245,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_FortressWarShip_Bomb.gst",
+    "block": 28392,
+    "size": 204996,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_FortressWarShip_Laser.gst",
+    "block": 28493,
+    "size": 42802,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_HeavyTank.gst",
+    "block": 28514,
+    "size": 36053,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_HeavyTank_H.gst",
+    "block": 28532,
+    "size": 528814,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_movingbunker.gst",
+    "block": 27178,
+    "size": 73523,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_Private.gst",
+    "block": 28827,
+    "size": 59804,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_Reconnoiter.gst",
+    "block": 28857,
+    "size": 56939,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_Reconnoiter_Scan.gst",
+    "block": 28886,
+    "size": 156746,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou_Reconnoiter_Virus.gst",
+    "block": 28826,
+    "size": 31446,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou__Dead.gst",
+    "block": 28979,
+    "size": 22891,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/hou__DeadEffect.gst",
+    "block": 28991,
+    "size": 788088,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_ho/vssver.scc",
+    "block": 29376,
+    "size": 832,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_Bulwark.gst",
+    "block": 29378,
+    "size": 112399,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_Bulwark_Laser.gst",
+    "block": 29433,
+    "size": 9071,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_Burn.gst",
+    "block": 29438,
+    "size": 14037,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_Burn_Laser.gst",
+    "block": 29445,
+    "size": 17828,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/Inb_CostaCenter1.gst",
+    "block": 29454,
+    "size": 32702,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_CostaCenter2.gst",
+    "block": 29470,
+    "size": 31480,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_CostaCenter3.gst",
+    "block": 29486,
+    "size": 26823,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_DarkPortal.gst",
+    "block": 29500,
+    "size": 35677,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_Outpost.gst",
+    "block": 29518,
+    "size": 18274,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_Outpost_BuildUp.gst",
+    "block": 29527,
+    "size": 18173,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_Outpost_TechUp.gst",
+    "block": 29536,
+    "size": 21859,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_PulseCenter.gst",
+    "block": 29547,
+    "size": 37976,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_SpacePort1.gst",
+    "block": 29566,
+    "size": 19118,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_SpacePort2.gst",
+    "block": 29576,
+    "size": 17422,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_SpacePort_BuildUp.gst",
+    "block": 29586,
+    "size": 38283,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_SpacePort_TechUp.gst",
+    "block": 29605,
+    "size": 30426,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb_SuckingBase.gst",
+    "block": 29620,
+    "size": 95394,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb__Create.gst",
+    "block": 29667,
+    "size": 421817,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb__Damage.gst",
+    "block": 29873,
+    "size": 36034,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb__Dead.gst",
+    "block": 29891,
+    "size": 60199,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb__DeadEffect.gst",
+    "block": 29921,
+    "size": 734372,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inb__ShiledDestroyed.gst",
+    "block": 30280,
+    "size": 169086,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/int_LightBall.gst",
+    "block": 30363,
+    "size": 15137,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Blade.gst",
+    "block": 30371,
+    "size": 407466,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Blazer.gst",
+    "block": 30570,
+    "size": 118162,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Blazer_Laser.gst",
+    "block": 30628,
+    "size": 3292,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Cerberus.gst",
+    "block": 30630,
+    "size": 106840,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Cerberus_Ball.gst",
+    "block": 30683,
+    "size": 45554,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Copolymer.gst",
+    "block": 30706,
+    "size": 169573,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Copolymer_Laser.gst",
+    "block": 30789,
+    "size": 9542,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Enigma.gst",
+    "block": 30795,
+    "size": 3904,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Enigma_GravityField.gst",
+    "block": 30797,
+    "size": 228634,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Enigma_Haste.gst",
+    "block": 30909,
+    "size": 32547,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Enigma_MultiCloaking.gst",
+    "block": 30925,
+    "size": 9355,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/Inu_HIckey.gst",
+    "block": 30930,
+    "size": 94783,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/Inu_Hickey_Laser.gst",
+    "block": 30977,
+    "size": 7439,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/Inu_Junker.gst",
+    "block": 30981,
+    "size": 121814,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Junker_Suicide.gst",
+    "block": 31041,
+    "size": 147400,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/Inu_Mangler.gst",
+    "block": 31113,
+    "size": 47418,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Mangler_Ball.gst",
+    "block": 31137,
+    "size": 5871,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Mangler_Sickle.gst",
+    "block": 31140,
+    "size": 5599,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Migrator.gst",
+    "block": 31143,
+    "size": 17455,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Nailer.gst",
+    "block": 28978,
+    "size": 15628,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Nailer_Spark.gst",
+    "block": 31161,
+    "size": 2430,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Novadis.gst",
+    "block": 31163,
+    "size": 406883,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Novadis_Death.gst",
+    "block": 31362,
+    "size": 6506,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Novadis_EnergyField.gst",
+    "block": 31367,
+    "size": 66340,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Novadis_NovaStorm.gst",
+    "block": 31400,
+    "size": 22916,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu_Seraphim.gst",
+    "block": 31412,
+    "size": 7220,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu__Dead.gst",
+    "block": 31416,
+    "size": 11144,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/inu__DeadEffect.gst",
+    "block": 31422,
+    "size": 547121,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_in/vssver.scc",
+    "block": 31690,
+    "size": 848,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_sp/SB_Battleship.gst",
+    "block": 31692,
+    "size": 16521,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_sp/SB_CenterDefensiveBase.gst",
+    "block": 31701,
+    "size": 60576,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_sp/SB_DeltasCenterDefensive.gst",
+    "block": 31731,
+    "size": 69140,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_sp/SB_ForcedLandingTroopship.gst",
+    "block": 31765,
+    "size": 16752,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_sp/SB_NelliosMineralMatter.gst",
+    "block": 31774,
+    "size": 129127,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_sp/SB_Prison.gst",
+    "block": 31838,
+    "size": 613711,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_sp/SB_Seal.gst",
+    "block": 32138,
+    "size": 69060,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_sp/SB_SpaceSystem.gst",
+    "block": 32172,
+    "size": 111506,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_sp/SB_SpaceSystemBuild.gst",
+    "block": 32227,
+    "size": 160293,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/gst_sp/vssver.scc",
+    "block": 32306,
+    "size": 176,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/640/button.gst",
+    "block": 31,
+    "size": 948690,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/interface/640/icon.gst",
+    "block": 31159,
+    "size": 1722807,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/interface/640/interfacebody.gst",
+    "block": 33618,
+    "size": 269825,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/640/interfacesource.gst",
+    "block": 33750,
+    "size": 193895,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/640/menu_cr.gst",
+    "block": 33845,
+    "size": 132254,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/640/Menu_Ex.gst",
+    "block": 33910,
+    "size": 135909,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/640/menu_ho.gst",
+    "block": 33977,
+    "size": 130262,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/640/menu_in.gst",
+    "block": 34041,
+    "size": 135814,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/640/vssver.scc",
+    "block": 34108,
+    "size": 160,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Briefing/Briefing.gst",
+    "block": 34109,
+    "size": 23513,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/interface/Briefing/ButtonReplay.gst",
+    "block": 34122,
+    "size": 2432,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Briefing/vssver.scc",
+    "block": 34124,
+    "size": 128,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Button.gst",
+    "block": 34125,
+    "size": 1512336,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/ChangeID/ButtonCancel.gst",
+    "block": 34864,
+    "size": 2462,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/interface/ChangeID/ButtonDelete.gst",
+    "block": 34867,
+    "size": 2390,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/ChangeID/ButtonNew.gst",
+    "block": 34869,
+    "size": 2118,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/ChangeID/ButtonOK.gst",
+    "block": 34871,
+    "size": 1884,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/ChangeID/ChangeID.gst",
+    "block": 34872,
+    "size": 23484,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/ChangeID/vssver.scc",
+    "block": 34884,
+    "size": 112,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/ButtonCancel.gst",
+    "block": 34886,
+    "size": 2462,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/interface/Common/ButtonCancel2.gst",
+    "block": 34887,
+    "size": 2462,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/interface/Common/ButtonDelete.gst",
+    "block": 34888,
+    "size": 2390,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/ButtonLoad.gst",
+    "block": 34890,
+    "size": 2152,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/ButtonLoad2.gst",
+    "block": 34892,
+    "size": 2152,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/ButtonOK.gst",
+    "block": 34894,
+    "size": 2154,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/ButtonOK2.gst",
+    "block": 34896,
+    "size": 1884,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/ButtonSave.gst",
+    "block": 34897,
+    "size": 2160,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/ButtonStart.gst",
+    "block": 34899,
+    "size": 2808,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/ButtonStart2.gst",
+    "block": 34901,
+    "size": 2292,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/interface/Common/ChangeID.gst",
+    "block": 34902,
+    "size": 24525,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/Custom.gst",
+    "block": 34914,
+    "size": 26426,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/Exit.gst",
+    "block": 34927,
+    "size": 6561,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/MBCancel.gst",
+    "block": 34931,
+    "size": 3040,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/MBOK.gst",
+    "block": 34934,
+    "size": 2646,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/MBOK2.gst",
+    "block": 34936,
+    "size": 2992,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/MessageBox.gst",
+    "block": 34938,
+    "size": 117827,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/Multi.gst",
+    "block": 34996,
+    "size": 27086,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/interface/Common/NetLink.gst",
+    "block": 35009,
+    "size": 5942,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/Option.gst",
+    "block": 35012,
+    "size": 25117,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/interface/Common/QuickMenu.gst",
+    "block": 35024,
+    "size": 178922,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/QuickMenuBack.gst",
+    "block": 35112,
+    "size": 394116,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/Replay.gst",
+    "block": 35305,
+    "size": 25247,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/Single.gst",
+    "block": 35318,
+    "size": 27470,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/ViewIntro.gst",
+    "block": 35332,
+    "size": 24397,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Common/vssver.scc",
+    "block": 35344,
+    "size": 416,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Control/CheckBox.gst",
+    "block": 35346,
+    "size": 1798,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Control/CheckBox2.gst",
+    "block": 35347,
+    "size": 1798,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Control/ComboBox.gst",
+    "block": 35348,
+    "size": 23158,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Control/ComboBox2.gst",
+    "block": 35360,
+    "size": 13765,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Control/ListBox.gst",
+    "block": 35367,
+    "size": 12574,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Control/TeamChange.gst",
+    "block": 35374,
+    "size": 1804,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Control/TeamColorCombo.gst",
+    "block": 35375,
+    "size": 4194,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Control/TrackBar.gst",
+    "block": 35378,
+    "size": 1652,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Control/vssver.scc",
+    "block": 35379,
+    "size": 160,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/CreateGameMenu/CreateGameMenu.gst",
+    "block": 35381,
+    "size": 26973,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/CreateGameMenu/vssver.scc",
+    "block": 35395,
+    "size": 64,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/CustomRoom/CustomRoom.gst",
+    "block": 35397,
+    "size": 27782,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/CustomRoom/vssver.scc",
+    "block": 35411,
+    "size": 48,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/ExternPal.Dat",
+    "block": 35412,
+    "size": 679424,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/GameResult/ButtonOK.gst",
+    "block": 35745,
+    "size": 2962,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/GameResult/ButtonSaveReplay.gst",
+    "block": 35747,
+    "size": 4830,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/GameResult/GameResult.gst",
+    "block": 35750,
+    "size": 20774,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/GameResult/Gauge.gst",
+    "block": 35761,
+    "size": 2564,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/GameResult/GaugeTotal.gst",
+    "block": 35763,
+    "size": 2692,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/GameResult/Result.gst",
+    "block": 35765,
+    "size": 9883,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/GameResult/TabResources.gst",
+    "block": 35770,
+    "size": 3222,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/GameResult/TabStructures.gst",
+    "block": 35772,
+    "size": 3242,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/GameResult/TabTotalScore.gst",
+    "block": 35774,
+    "size": 3712,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/GameResult/TabUnits.gst",
+    "block": 35776,
+    "size": 2866,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/GameResult/vssver.scc",
+    "block": 35778,
+    "size": 352,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/GameRoom/GameRoom.gst",
+    "block": 35780,
+    "size": 27105,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/GameRoom/vssver.scc",
+    "block": 35794,
+    "size": 64,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/icon.gst",
+    "block": 33612,
+    "size": 2655868,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/interface/InterfaceBody.gst",
+    "block": 37103,
+    "size": 365404,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/interfacesource.gst",
+    "block": 37282,
+    "size": 219574,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/IPXMode/ButtonCreateGame.gst",
+    "block": 37392,
+    "size": 3306,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/IPXMode/IPXMode.gst",
+    "block": 37394,
+    "size": 26559,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/IPXMode/vssver.scc",
+    "block": 37407,
+    "size": 80,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Loading/loading.gst",
+    "block": 37409,
+    "size": 610518,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Loading/vssver.scc",
+    "block": 37709,
+    "size": 48,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Menu_Cr.gst",
+    "block": 37710,
+    "size": 152020,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Menu_Ex.gst",
+    "block": 37086,
+    "size": 247945,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/interface/Menu_Ho.gst",
+    "block": 37902,
+    "size": 152688,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Menu_In.gst",
+    "block": 37977,
+    "size": 156199,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/MultiMode/MultiMode.gst",
+    "block": 38055,
+    "size": 22238,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/MultiMode/vssver.scc",
+    "block": 38066,
+    "size": 64,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Option/Option.gst",
+    "block": 38068,
+    "size": 24123,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Option/TrackBar.gst",
+    "block": 38080,
+    "size": 1333,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/Option/vssver.scc",
+    "block": 38081,
+    "size": 64,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/RaceChoose/createse.gst",
+    "block": 38083,
+    "size": 3693,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/RaceChoose/hominian.gst",
+    "block": 38085,
+    "size": 3828,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/RaceChoose/intellion.gst",
+    "block": 38087,
+    "size": 3651,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/RaceChoose/RaceChoose.gst",
+    "block": 38089,
+    "size": 5086,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/RaceChoose/vssver.scc",
+    "block": 38092,
+    "size": 144,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/RegisterID/IDCancel.gst",
+    "block": 38094,
+    "size": 2498,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/RegisterID/IDDelete.gst",
+    "block": 38096,
+    "size": 2426,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/RegisterID/IDEditBox.gst",
+    "block": 38098,
+    "size": 38240,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/RegisterID/IDExit.gst",
+    "block": 38117,
+    "size": 5594,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/RegisterID/IDListBox.gst",
+    "block": 38120,
+    "size": 85346,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/RegisterID/IDOk.gst",
+    "block": 38162,
+    "size": 2370,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/RegisterID/IDToggleButton.gst",
+    "block": 38164,
+    "size": 1510,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/RegisterID/RegisterID.gst",
+    "block": 38165,
+    "size": 819918,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/RegisterID/vssver.scc",
+    "block": 38566,
+    "size": 160,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/SaveLoad/ButtonCancel.gst",
+    "block": 38568,
+    "size": 2454,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/interface/SaveLoad/LoadBack.gst",
+    "block": 38569,
+    "size": 23484,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/SaveLoad/LoadReplayBack.gst",
+    "block": 38581,
+    "size": 23484,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/SaveLoad/SaveBack.gst",
+    "block": 38593,
+    "size": 23484,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/SaveLoad/SaveReplayBack.gst",
+    "block": 38605,
+    "size": 23484,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/SaveLoad/vssver.scc",
+    "block": 38617,
+    "size": 128,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/TCPIPMode/ButtonCreate.gst",
+    "block": 38619,
+    "size": 2468,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/TCPIPMode/TCPIPMode.gst",
+    "block": 38621,
+    "size": 24031,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/TCPIPMode/vssver.scc",
+    "block": 38633,
+    "size": 80,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/interface/vssver.scc",
+    "block": 38634,
+    "size": 176,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/lf_ablt.t2b",
+    "block": 23205,
+    "size": 8502,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/lf_help.t2b",
+    "block": 38640,
+    "size": 903,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/lf_prmt.t2b",
+    "block": 23210,
+    "size": 82214,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/lf_ugrd.t2b",
+    "block": 38635,
+    "size": 10112,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/createse01.spm",
+    "block": 22283,
+    "size": 75966,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/createse02.spm",
+    "block": 22321,
+    "size": 124822,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/createse03.spm",
+    "block": 22382,
+    "size": 100240,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/createse04.spm",
+    "block": 22431,
+    "size": 142627,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/createse05.spm",
+    "block": 22502,
+    "size": 136536,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/createse06.spm",
+    "block": 22569,
+    "size": 105249,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/createse07.spm",
+    "block": 22621,
+    "size": 98025,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/createse08.spm",
+    "block": 22669,
+    "size": 144539,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/createse09.spm",
+    "block": 22740,
+    "size": 140297,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/hominian01.spm",
+    "block": 22809,
+    "size": 77880,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/hominian02a.spm",
+    "block": 22847,
+    "size": 92364,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/hominian02b.spm",
+    "block": 22893,
+    "size": 86426,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/hominian03.spm",
+    "block": 22937,
+    "size": 85719,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/hominian04.spm",
+    "block": 22979,
+    "size": 107221,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/hominian05.spm",
+    "block": 23032,
+    "size": 147766,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/hominian06.spm",
+    "block": 23105,
+    "size": 150354,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/hominian07.spm",
+    "block": 23179,
+    "size": 139504,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/hominian08.spm",
+    "block": 38699,
+    "size": 142282,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/intelion01.spm",
+    "block": 38769,
+    "size": 77968,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/intelion02.spm",
+    "block": 38808,
+    "size": 83445,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/intelion03.spm",
+    "block": 38849,
+    "size": 87616,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/intelion04.spm",
+    "block": 38892,
+    "size": 104434,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/intelion05.spm",
+    "block": 38943,
+    "size": 113171,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/intelion06.spm",
+    "block": 38999,
+    "size": 146084,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/intelion07.spm",
+    "block": 39071,
+    "size": 126601,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/maps/scenario/intelion08.spm",
+    "block": 39133,
+    "size": 96730,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Cfhb00b01.gst",
+    "block": 46788,
+    "size": 11359,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Cfhb01b02.gst",
+    "block": 46794,
+    "size": 8467,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Cfhb02b03.gst",
+    "block": 46799,
+    "size": 13171,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Cfhb03b04.gst",
+    "block": 46806,
+    "size": 11809,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Cfma00b05.gst",
+    "block": 46812,
+    "size": 7931,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/CFMA01B06.gst",
+    "block": 46816,
+    "size": 3217,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/CFMA02B07.gst",
+    "block": 46818,
+    "size": 3197,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/CFMA03B08.gst",
+    "block": 46820,
+    "size": 3462,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/CFMA04B09.gst",
+    "block": 46822,
+    "size": 2679,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Cfmf00b10.gst",
+    "block": 46824,
+    "size": 8627,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/CFMF01B11.gst",
+    "block": 46829,
+    "size": 6108,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/CFMF02B12.gst",
+    "block": 46832,
+    "size": 4695,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/CFMF03B13.gst",
+    "block": 46835,
+    "size": 3741,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/CFMF04B14.gst",
+    "block": 46837,
+    "size": 3590,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/CFMF05B15.gst",
+    "block": 46840,
+    "size": 3525,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Desert/IFHS01B31.gst",
+    "block": 46843,
+    "size": 4306,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Desert/IFHS02B32.gst",
+    "block": 46846,
+    "size": 6018,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Desert/IFHS03B33.gst",
+    "block": 46849,
+    "size": 2389,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Desert/IFHS04B34.gst",
+    "block": 46851,
+    "size": 2330,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Desert/IFHS05B35.gst",
+    "block": 46853,
+    "size": 4369,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Desert/IFMS01B50.gst",
+    "block": 46856,
+    "size": 4306,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Desert/IFMS02B51.gst",
+    "block": 46859,
+    "size": 6018,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Desert/IFMS03B52.gst",
+    "block": 46862,
+    "size": 2389,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Desert/IFMS04B53.gst",
+    "block": 46864,
+    "size": 2330,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Desert/IFMS05B54.gst",
+    "block": 46866,
+    "size": 4369,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/Desert/vssver.scc",
+    "block": 46869,
+    "size": 192,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/HFHG00b01.gst",
+    "block": 46870,
+    "size": 7010,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/HFHG01b02.gst",
+    "block": 46874,
+    "size": 6538,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/HFHG02b03.gst",
+    "block": 46878,
+    "size": 6843,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/HFMK00b04.gst",
+    "block": 46882,
+    "size": 7010,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/HFMK01b05.gst",
+    "block": 46886,
+    "size": 6538,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/HFMK02b06.gst",
+    "block": 46890,
+    "size": 6843,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHK00b01.gst",
+    "block": 46894,
+    "size": 3011,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHK01b02.gst",
+    "block": 46896,
+    "size": 2728,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHK02b03.gst",
+    "block": 46898,
+    "size": 2772,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHK03b04.gst",
+    "block": 46900,
+    "size": 3072,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHK04b05.gst",
+    "block": 46902,
+    "size": 3670,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHK05b06.gst",
+    "block": 46904,
+    "size": 3107,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHK06b07.gst",
+    "block": 46906,
+    "size": 5884,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHK07b08.gst",
+    "block": 46909,
+    "size": 5576,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHK08b09.gst",
+    "block": 46913,
+    "size": 6014,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHK09b10.gst",
+    "block": 46916,
+    "size": 6474,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHS00b11.gst",
+    "block": 46920,
+    "size": 3011,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHS01b12.gst",
+    "block": 46922,
+    "size": 2728,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHS02b13.gst",
+    "block": 46924,
+    "size": 2772,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHS03b14.gst",
+    "block": 46926,
+    "size": 3072,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHS04b15.gst",
+    "block": 46928,
+    "size": 3670,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHS05b16.gst",
+    "block": 46930,
+    "size": 3107,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHS06b17.gst",
+    "block": 46932,
+    "size": 5884,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHS07b18.gst",
+    "block": 46935,
+    "size": 5576,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHS08b19.gst",
+    "block": 46938,
+    "size": 6014,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFHS09b20.gst",
+    "block": 46941,
+    "size": 6474,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFMS00b21.gst",
+    "block": 46945,
+    "size": 3011,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFMS01b22.gst",
+    "block": 46947,
+    "size": 2728,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFMS02b23.gst",
+    "block": 46949,
+    "size": 2772,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFMS03b24.gst",
+    "block": 46951,
+    "size": 3072,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFMS04b25.gst",
+    "block": 46954,
+    "size": 3670,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFMS05b26.gst",
+    "block": 46956,
+    "size": 3107,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFMS06b27.gst",
+    "block": 46958,
+    "size": 5884,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFMS07b28.gst",
+    "block": 46961,
+    "size": 5576,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFMS08b29.gst",
+    "block": 46964,
+    "size": 6014,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/IFMS09b30.gst",
+    "block": 46967,
+    "size": 6474,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Object/vssver.scc",
+    "block": 46971,
+    "size": 848,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Res/Gas.GST",
+    "block": 46974,
+    "size": 165438,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Res/Mineral.GST",
+    "block": 47055,
+    "size": 226650,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Res/vssver.scc",
+    "block": 47166,
+    "size": 64,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Serial.txt",
+    "block": 23203,
+    "size": 12,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/Special/StartLoc.gst",
+    "block": 47169,
+    "size": 20152,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/Special/vssver.scc",
+    "block": 47179,
+    "size": 48,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/version.txt",
+    "block": 38653,
+    "size": 16,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/_lf_ablt.t2b",
+    "block": 38641,
+    "size": 8503,
+    "attr": 258
+  },
+  {
+    "path": "/atrox_pak/_lf_prmt.t2b",
+    "block": 38646,
+    "size": 82155,
+    "attr": 2
+  },
+  {
+    "path": "/atrox_pak/_lf_ugrd.t2b",
+    "block": 42550,
+    "size": 10123,
+    "attr": 258
+  }
+]
